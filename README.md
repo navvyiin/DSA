@@ -11,6 +11,7 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/navvyiin/DSA/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/navvyiin/DSA/tree/master/0068-text-justification) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -19,4 +20,9 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/navvyiin/DSA/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/navvyiin/DSA/tree/master/0068-text-justification) |
+## Array
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/navvyiin/DSA/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
