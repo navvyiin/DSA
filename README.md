@@ -7,6 +7,7 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/navvyiin/DSA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/navvyiin/DSA/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -25,4 +26,8 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/navvyiin/DSA/tree/master/0068-text-justification) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/navvyiin/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
