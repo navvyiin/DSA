@@ -30,10 +30,12 @@ LeetCode and GeeksforGeeks
 | ------- |
 | [0068-text-justification](https://github.com/navvyiin/DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/navvyiin/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/navvyiin/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/navvyiin/DSA/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/navvyiin/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +57,5 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/navvyiin/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/navvyiin/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
