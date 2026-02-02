@@ -16,6 +16,7 @@ LeetCode and GeeksforGeeks
 | [0068-text-justification](https://github.com/navvyiin/DSA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/navvyiin/DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/navvyiin/DSA/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/navvyiin/DSA/tree/master/0076-minimum-window-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,6 +55,7 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/navvyiin/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/navvyiin/DSA/tree/master/0076-minimum-window-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -67,4 +69,8 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/navvyiin/DSA/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/navvyiin/DSA/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
