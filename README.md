@@ -15,6 +15,7 @@ LeetCode and GeeksforGeeks
 | [0067-add-binary](https://github.com/navvyiin/DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/navvyiin/DSA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/navvyiin/DSA/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/navvyiin/DSA/tree/master/0072-edit-distance) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -36,6 +37,7 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/navvyiin/DSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/navvyiin/DSA/tree/master/0072-edit-distance) |
 ## Memoization
 |  |
 | ------- |
