@@ -21,6 +21,7 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/navvyiin/DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/navvyiin/DSA/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -33,6 +34,7 @@ LeetCode and GeeksforGeeks
 | [0073-set-matrix-zeroes](https://github.com/navvyiin/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/navvyiin/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/navvyiin/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/navvyiin/DSA/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,4 +79,5 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0077-combinations](https://github.com/navvyiin/DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/navvyiin/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
