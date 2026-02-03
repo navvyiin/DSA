@@ -37,6 +37,7 @@ LeetCode and GeeksforGeeks
 | [0075-sort-colors](https://github.com/navvyiin/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/navvyiin/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/navvyiin/DSA/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/navvyiin/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/navvyiin/DSA/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/navvyiin/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Sorting
 |  |
 | ------- |
