@@ -74,6 +74,7 @@ LeetCode and GeeksforGeeks
 | ------- |
 | [0075-sort-colors](https://github.com/navvyiin/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/navvyiin/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/navvyiin/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -92,4 +93,8 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0079-word-search](https://github.com/navvyiin/DSA/tree/master/0079-word-search) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/navvyiin/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
