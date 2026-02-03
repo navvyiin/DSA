@@ -3,25 +3,29 @@ using namespace std;
 
 class Solution {
 public:
-    vector<vector<int>> result;
-    vector<int> current;
+    vector<vector<int>> combine(int n, int k) {
+        vector<vector<int>> result;
+        vector<int> cur;
+        cur.reserve(k);
 
-    void backtrack(int start, int n, int k) {
-        if (current.size() == k) {
-            result.push_back(current);
+        dfs(1, n, k, cur, result);
+        return result;
+    }
+
+private:
+    inline void dfs(int start, int n, int k,
+                    vector<int>& cur,
+                    vector<vector<int>>& result) {
+        if (cur.size() == k) {
+            result.push_back(cur);
             return;
         }
 
-        // Prune: remaining numbers must be enough
-        for (int i = start; i <= n - (k - current.size()) + 1; i++) {
-            current.push_back(i);
-            backtrack(i + 1, n, k);
-            current.pop_back();
+        int need = k - cur.size();
+        for (int i = start; i <= n - need + 1; ++i) {
+            cur.push_back(i);
+            dfs(i + 1, n, k, cur, result);
+            cur.pop_back();
         }
-    }
-
-    vector<vector<int>> combine(int n, int k) {
-        backtrack(1, n, k);
-        return result;
     }
 };
