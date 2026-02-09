@@ -133,6 +133,7 @@ LeetCode and GeeksforGeeks
 | [0100-same-tree](https://github.com/navvyiin/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/navvyiin/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/navvyiin/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/navvyiin/DSA/tree/master/0110-balanced-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -164,6 +165,7 @@ LeetCode and GeeksforGeeks
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/navvyiin/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/navvyiin/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/navvyiin/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/navvyiin/DSA/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -182,6 +184,7 @@ LeetCode and GeeksforGeeks
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/navvyiin/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/navvyiin/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/navvyiin/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/navvyiin/DSA/tree/master/0110-balanced-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
