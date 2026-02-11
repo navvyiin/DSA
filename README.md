@@ -65,6 +65,7 @@ LeetCode and GeeksforGeeks
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/navvyiin/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/navvyiin/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/navvyiin/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/navvyiin/DSA/tree/master/0130-surrounded-regions) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +120,7 @@ LeetCode and GeeksforGeeks
 | [0074-search-a-2d-matrix](https://github.com/navvyiin/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/navvyiin/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/navvyiin/DSA/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/navvyiin/DSA/tree/master/0130-surrounded-regions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,6 +170,7 @@ LeetCode and GeeksforGeeks
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/navvyiin/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/navvyiin/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/navvyiin/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/navvyiin/DSA/tree/master/0130-surrounded-regions) |
 ## Linked List
 |  |
 | ------- |
@@ -262,6 +265,7 @@ LeetCode and GeeksforGeeks
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/navvyiin/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/navvyiin/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/navvyiin/DSA/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/navvyiin/DSA/tree/master/0130-surrounded-regions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -277,4 +281,5 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/navvyiin/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/navvyiin/DSA/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
