@@ -25,6 +25,7 @@ LeetCode and GeeksforGeeks
 | [0093-restore-ip-addresses](https://github.com/navvyiin/DSA/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/navvyiin/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/navvyiin/DSA/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/navvyiin/DSA/tree/master/0125-valid-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -120,6 +121,7 @@ LeetCode and GeeksforGeeks
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/navvyiin/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/navvyiin/DSA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/navvyiin/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/navvyiin/DSA/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
