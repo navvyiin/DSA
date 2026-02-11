@@ -64,6 +64,7 @@ LeetCode and GeeksforGeeks
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/navvyiin/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/navvyiin/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/navvyiin/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/navvyiin/DSA/tree/master/0128-longest-consecutive-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +111,7 @@ LeetCode and GeeksforGeeks
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/navvyiin/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/navvyiin/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/navvyiin/DSA/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/navvyiin/DSA/tree/master/0128-longest-consecutive-sequence) |
 ## Matrix
 |  |
 | ------- |
@@ -268,4 +270,8 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/navvyiin/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/navvyiin/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
