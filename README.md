@@ -28,6 +28,7 @@ LeetCode and GeeksforGeeks
 | [0125-valid-palindrome](https://github.com/navvyiin/DSA/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/navvyiin/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/navvyiin/DSA/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/navvyiin/DSA/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +92,7 @@ LeetCode and GeeksforGeeks
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/navvyiin/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/navvyiin/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/navvyiin/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/navvyiin/DSA/tree/master/0131-palindrome-partitioning) |
 ## Memoization
 |  |
 | ------- |
@@ -151,6 +153,7 @@ LeetCode and GeeksforGeeks
 | [0095-unique-binary-search-trees-ii](https://github.com/navvyiin/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/navvyiin/DSA/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/navvyiin/DSA/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/navvyiin/DSA/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
 |  |
 | ------- |
