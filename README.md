@@ -69,6 +69,7 @@ LeetCode and GeeksforGeeks
 | [0128-longest-consecutive-sequence](https://github.com/navvyiin/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/navvyiin/DSA/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/navvyiin/DSA/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/navvyiin/DSA/tree/master/0135-candy) |
 ## Binary Search
 |  |
 | ------- |
@@ -287,6 +288,7 @@ LeetCode and GeeksforGeeks
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/navvyiin/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/navvyiin/DSA/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/navvyiin/DSA/tree/master/0135-candy) |
 ## Union-Find
 |  |
 | ------- |
