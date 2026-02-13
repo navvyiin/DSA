@@ -90,6 +90,7 @@ LeetCode and GeeksforGeeks
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/navvyiin/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/navvyiin/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/navvyiin/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/navvyiin/DSA/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -161,6 +162,7 @@ LeetCode and GeeksforGeeks
 | [0146-lru-cache](https://github.com/navvyiin/DSA/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/navvyiin/DSA/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/navvyiin/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/navvyiin/DSA/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -192,6 +194,7 @@ LeetCode and GeeksforGeeks
 | [0088-merge-sorted-array](https://github.com/navvyiin/DSA/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/navvyiin/DSA/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/navvyiin/DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/navvyiin/DSA/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -348,6 +351,7 @@ LeetCode and GeeksforGeeks
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/navvyiin/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/navvyiin/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/navvyiin/DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/navvyiin/DSA/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -389,4 +393,8 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/navvyiin/DSA/tree/master/0149-max-points-on-a-line) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/navvyiin/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
