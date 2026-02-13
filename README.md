@@ -15,6 +15,7 @@ LeetCode and GeeksforGeeks
 | [0150-evaluate-reverse-polish-notation](https://github.com/navvyiin/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/navvyiin/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/navvyiin/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/navvyiin/DSA/tree/master/0172-factorial-trailing-zeroes) |
 ## String
 |  |
 | ------- |
