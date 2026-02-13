@@ -11,6 +11,7 @@ LeetCode and GeeksforGeeks
 | [0070-climbing-stairs](https://github.com/navvyiin/DSA/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/navvyiin/DSA/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/navvyiin/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/navvyiin/DSA/tree/master/0149-max-points-on-a-line) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ LeetCode and GeeksforGeeks
 | [0137-single-number-ii](https://github.com/navvyiin/DSA/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/navvyiin/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/navvyiin/DSA/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/navvyiin/DSA/tree/master/0149-max-points-on-a-line) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,6 +143,7 @@ LeetCode and GeeksforGeeks
 | [0141-linked-list-cycle](https://github.com/navvyiin/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/navvyiin/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/navvyiin/DSA/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/navvyiin/DSA/tree/master/0149-max-points-on-a-line) |
 ## Matrix
 |  |
 | ------- |
@@ -361,4 +364,8 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/navvyiin/DSA/tree/master/0148-sort-list) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/navvyiin/DSA/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
