@@ -121,6 +121,7 @@ LeetCode and GeeksforGeeks
 | [0085-maximal-rectangle](https://github.com/navvyiin/DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/navvyiin/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/navvyiin/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/navvyiin/DSA/tree/master/0143-reorder-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@ LeetCode and GeeksforGeeks
 | [0125-valid-palindrome](https://github.com/navvyiin/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/navvyiin/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/navvyiin/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/navvyiin/DSA/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
 | ------- |
@@ -214,6 +216,7 @@ LeetCode and GeeksforGeeks
 | [0138-copy-list-with-random-pointer](https://github.com/navvyiin/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/navvyiin/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/navvyiin/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/navvyiin/DSA/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -326,4 +329,8 @@ LeetCode and GeeksforGeeks
 | ------- |
 | [0139-word-break](https://github.com/navvyiin/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/navvyiin/DSA/tree/master/0140-word-break-ii) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/navvyiin/DSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
