@@ -412,4 +412,8 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/navvyiin/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/navvyiin/DSA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
