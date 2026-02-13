@@ -167,6 +167,7 @@ LeetCode and GeeksforGeeks
 | [0142-linked-list-cycle-ii](https://github.com/navvyiin/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/navvyiin/DSA/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/navvyiin/DSA/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/navvyiin/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/navvyiin/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/navvyiin/DSA/tree/master/0169-majority-element) |
 ## Matrix
@@ -192,6 +193,7 @@ LeetCode and GeeksforGeeks
 | [0143-reorder-list](https://github.com/navvyiin/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/navvyiin/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/navvyiin/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/navvyiin/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/navvyiin/DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/navvyiin/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
@@ -261,6 +263,7 @@ LeetCode and GeeksforGeeks
 | [0146-lru-cache](https://github.com/navvyiin/DSA/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/navvyiin/DSA/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/navvyiin/DSA/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/navvyiin/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Monotonic Stack
 |  |
 | ------- |
