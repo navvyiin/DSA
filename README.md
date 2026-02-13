@@ -12,6 +12,7 @@ LeetCode and GeeksforGeeks
 | [0089-gray-code](https://github.com/navvyiin/DSA/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/navvyiin/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/navvyiin/DSA/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/navvyiin/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ LeetCode and GeeksforGeeks
 | [0139-word-break](https://github.com/navvyiin/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/navvyiin/DSA/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/navvyiin/DSA/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/navvyiin/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +128,7 @@ LeetCode and GeeksforGeeks
 | [0143-reorder-list](https://github.com/navvyiin/DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/navvyiin/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/navvyiin/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/navvyiin/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
