@@ -89,6 +89,7 @@ LeetCode and GeeksforGeeks
 | [0152-maximum-product-subarray](https://github.com/navvyiin/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/navvyiin/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/navvyiin/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/navvyiin/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ LeetCode and GeeksforGeeks
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/navvyiin/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/navvyiin/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/navvyiin/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/navvyiin/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -182,6 +184,7 @@ LeetCode and GeeksforGeeks
 | [0148-sort-list](https://github.com/navvyiin/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/navvyiin/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/navvyiin/DSA/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/navvyiin/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
