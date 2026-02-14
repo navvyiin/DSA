@@ -14,6 +14,7 @@ LeetCode and GeeksforGeeks
 | [0149-max-points-on-a-line](https://github.com/navvyiin/DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/navvyiin/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/navvyiin/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0168-excel-sheet-column-title](https://github.com/navvyiin/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/navvyiin/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/navvyiin/DSA/tree/master/0172-factorial-trailing-zeroes) |
 ## String
@@ -40,6 +41,7 @@ LeetCode and GeeksforGeeks
 | [0151-reverse-words-in-a-string](https://github.com/navvyiin/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/navvyiin/DSA/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/navvyiin/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0168-excel-sheet-column-title](https://github.com/navvyiin/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/navvyiin/DSA/tree/master/0171-excel-sheet-column-number) |
 ## Bit Manipulation
 |  |
