@@ -267,6 +267,7 @@ LeetCode and GeeksforGeeks
 | [0133-clone-graph](https://github.com/navvyiin/DSA/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/navvyiin/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/navvyiin/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/navvyiin/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Linked List
 |  |
 | ------- |
@@ -321,6 +322,7 @@ LeetCode and GeeksforGeeks
 | [0144-binary-tree-preorder-traversal](https://github.com/navvyiin/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/navvyiin/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/navvyiin/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/navvyiin/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
@@ -351,6 +353,7 @@ LeetCode and GeeksforGeeks
 | [0144-binary-tree-preorder-traversal](https://github.com/navvyiin/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/navvyiin/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/navvyiin/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/navvyiin/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -378,6 +381,7 @@ LeetCode and GeeksforGeeks
 | [0127-word-ladder](https://github.com/navvyiin/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/navvyiin/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/navvyiin/DSA/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/navvyiin/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Divide and Conquer
 |  |
 | ------- |
