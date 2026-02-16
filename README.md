@@ -66,6 +66,7 @@ LeetCode and GeeksforGeeks
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/navvyiin/DSA/tree/master/0001-two-sum) |
 | [0068-text-justification](https://github.com/navvyiin/DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/navvyiin/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/navvyiin/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -170,6 +171,7 @@ LeetCode and GeeksforGeeks
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/navvyiin/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/navvyiin/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/navvyiin/DSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/navvyiin/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
