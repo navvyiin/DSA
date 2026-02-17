@@ -48,6 +48,7 @@ LeetCode and GeeksforGeeks
 | [0171-excel-sheet-column-number](https://github.com/navvyiin/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/navvyiin/DSA/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/navvyiin/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/navvyiin/DSA/tree/master/0205-isomorphic-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -196,6 +197,7 @@ LeetCode and GeeksforGeeks
 | [0169-majority-element](https://github.com/navvyiin/DSA/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/navvyiin/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/navvyiin/DSA/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/navvyiin/DSA/tree/master/0205-isomorphic-strings) |
 ## Matrix
 |  |
 | ------- |
