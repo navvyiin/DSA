@@ -19,6 +19,7 @@ LeetCode and GeeksforGeeks
 | [0172-factorial-trailing-zeroes](https://github.com/navvyiin/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/navvyiin/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/navvyiin/DSA/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/navvyiin/DSA/tree/master/0204-count-primes) |
 ## String
 |  |
 | ------- |
@@ -113,6 +114,7 @@ LeetCode and GeeksforGeeks
 | [0189-rotate-array](https://github.com/navvyiin/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/navvyiin/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/navvyiin/DSA/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/navvyiin/DSA/tree/master/0204-count-primes) |
 ## Binary Search
 |  |
 | ------- |
@@ -488,4 +490,12 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/navvyiin/DSA/tree/master/0187-repeated-dna-sequences) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/navvyiin/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/navvyiin/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
