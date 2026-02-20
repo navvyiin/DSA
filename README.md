@@ -126,6 +126,7 @@ LeetCode and GeeksforGeeks
 | [0215-kth-largest-element-in-an-array](https://github.com/navvyiin/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/navvyiin/DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/navvyiin/DSA/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/navvyiin/DSA/tree/master/0218-the-skyline-problem) |
 ## Binary Search
 |  |
 | ------- |
@@ -254,6 +255,7 @@ LeetCode and GeeksforGeeks
 | [0179-largest-number](https://github.com/navvyiin/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/navvyiin/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/navvyiin/DSA/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/navvyiin/DSA/tree/master/0218-the-skyline-problem) |
 ## Sliding Window
 |  |
 | ------- |
@@ -435,6 +437,7 @@ LeetCode and GeeksforGeeks
 | [0190-reverse-bits](https://github.com/navvyiin/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/navvyiin/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/navvyiin/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/navvyiin/DSA/tree/master/0218-the-skyline-problem) |
 ## Greedy
 |  |
 | ------- |
@@ -554,8 +557,25 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/navvyiin/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/navvyiin/DSA/tree/master/0218-the-skyline-problem) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/navvyiin/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/navvyiin/DSA/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/navvyiin/DSA/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/navvyiin/DSA/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/navvyiin/DSA/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
