@@ -52,6 +52,7 @@ LeetCode and GeeksforGeeks
 | [0208-implement-trie-prefix-tree](https://github.com/navvyiin/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/navvyiin/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/navvyiin/DSA/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/navvyiin/DSA/tree/master/0214-shortest-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -514,10 +515,12 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/navvyiin/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/navvyiin/DSA/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/navvyiin/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/navvyiin/DSA/tree/master/0214-shortest-palindrome) |
 ## Enumeration
 |  |
 | ------- |
@@ -535,4 +538,8 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/navvyiin/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/navvyiin/DSA/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
