@@ -124,6 +124,7 @@ LeetCode and GeeksforGeeks
 | [0212-word-search-ii](https://github.com/navvyiin/DSA/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/navvyiin/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/navvyiin/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/navvyiin/DSA/tree/master/0216-combination-sum-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -271,6 +272,7 @@ LeetCode and GeeksforGeeks
 | [0131-palindrome-partitioning](https://github.com/navvyiin/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/navvyiin/DSA/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/navvyiin/DSA/tree/master/0212-word-search-ii) |
+| [0216-combination-sum-iii](https://github.com/navvyiin/DSA/tree/master/0216-combination-sum-iii) |
 ## Depth-First Search
 |  |
 | ------- |
