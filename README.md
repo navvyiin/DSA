@@ -20,6 +20,7 @@ LeetCode and GeeksforGeeks
 | [0189-rotate-array](https://github.com/navvyiin/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/navvyiin/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/navvyiin/DSA/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/navvyiin/DSA/tree/master/0223-rectangle-area) |
 ## String
 |  |
 | ------- |
@@ -504,6 +505,7 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/navvyiin/DSA/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/navvyiin/DSA/tree/master/0223-rectangle-area) |
 ## Counting
 |  |
 | ------- |
