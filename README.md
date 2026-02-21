@@ -137,6 +137,7 @@ LeetCode and GeeksforGeeks
 | [0220-contains-duplicate-iii](https://github.com/navvyiin/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/navvyiin/DSA/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/navvyiin/DSA/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/navvyiin/DSA/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -229,6 +230,7 @@ LeetCode and GeeksforGeeks
 | [0208-implement-trie-prefix-tree](https://github.com/navvyiin/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/navvyiin/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/navvyiin/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/navvyiin/DSA/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -274,6 +276,7 @@ LeetCode and GeeksforGeeks
 | [0217-contains-duplicate](https://github.com/navvyiin/DSA/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/navvyiin/DSA/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/navvyiin/DSA/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/navvyiin/DSA/tree/master/0229-majority-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -524,6 +527,7 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/navvyiin/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/navvyiin/DSA/tree/master/0229-majority-element-ii) |
 ## Iterator
 |  |
 | ------- |
