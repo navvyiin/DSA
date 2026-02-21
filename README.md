@@ -21,6 +21,7 @@ LeetCode and GeeksforGeeks
 | [0202-happy-number](https://github.com/navvyiin/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/navvyiin/DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/navvyiin/DSA/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/navvyiin/DSA/tree/master/0224-basic-calculator) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ LeetCode and GeeksforGeeks
 | [0211-design-add-and-search-words-data-structure](https://github.com/navvyiin/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/navvyiin/DSA/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/navvyiin/DSA/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/navvyiin/DSA/tree/master/0224-basic-calculator) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -193,6 +195,7 @@ LeetCode and GeeksforGeeks
 | [0150-evaluate-reverse-polish-notation](https://github.com/navvyiin/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/navvyiin/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/navvyiin/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/navvyiin/DSA/tree/master/0224-basic-calculator) |
 ## Hash Table
 |  |
 | ------- |
@@ -485,6 +488,7 @@ LeetCode and GeeksforGeeks
 | [0143-reorder-list](https://github.com/navvyiin/DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/navvyiin/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/navvyiin/DSA/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/navvyiin/DSA/tree/master/0224-basic-calculator) |
 ## Design
 |  |
 | ------- |
