@@ -204,6 +204,7 @@ LeetCode and GeeksforGeeks
 | [0224-basic-calculator](https://github.com/navvyiin/DSA/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/navvyiin/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/navvyiin/DSA/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/navvyiin/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Hash Table
 |  |
 | ------- |
@@ -517,6 +518,7 @@ LeetCode and GeeksforGeeks
 | [0208-implement-trie-prefix-tree](https://github.com/navvyiin/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/navvyiin/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/navvyiin/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/navvyiin/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -624,4 +626,5 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/navvyiin/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/navvyiin/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
