@@ -136,6 +136,7 @@ LeetCode and GeeksforGeeks
 | [0219-contains-duplicate-ii](https://github.com/navvyiin/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/navvyiin/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/navvyiin/DSA/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/navvyiin/DSA/tree/master/0228-summary-ranges) |
 ## Binary Search
 |  |
 | ------- |
