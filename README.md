@@ -142,6 +142,7 @@ LeetCode and GeeksforGeeks
 | [0228-summary-ranges](https://github.com/navvyiin/DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/navvyiin/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/navvyiin/DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/navvyiin/DSA/tree/master/0239-sliding-window-maximum) |
 ## Binary Search
 |  |
 | ------- |
@@ -293,6 +294,7 @@ LeetCode and GeeksforGeeks
 | [0209-minimum-size-subarray-sum](https://github.com/navvyiin/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/navvyiin/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/navvyiin/DSA/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/navvyiin/DSA/tree/master/0239-sliding-window-maximum) |
 ## Backtracking
 |  |
 | ------- |
@@ -618,6 +620,7 @@ LeetCode and GeeksforGeeks
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/navvyiin/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/navvyiin/DSA/tree/master/0218-the-skyline-problem) |
+| [0239-sliding-window-maximum](https://github.com/navvyiin/DSA/tree/master/0239-sliding-window-maximum) |
 ## Quickselect
 |  |
 | ------- |
@@ -644,4 +647,9 @@ LeetCode and GeeksforGeeks
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/navvyiin/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/navvyiin/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/navvyiin/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/navvyiin/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
