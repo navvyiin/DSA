@@ -27,6 +27,7 @@ LeetCode and GeeksforGeeks
 | [0233-number-of-digit-one](https://github.com/navvyiin/DSA/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/navvyiin/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/navvyiin/DSA/tree/master/0258-add-digits) |
+| [0264-ugly-number-ii](https://github.com/navvyiin/DSA/tree/master/0264-ugly-number-ii) |
 ## String
 |  |
 | ------- |
@@ -196,6 +197,7 @@ LeetCode and GeeksforGeeks
 | [0221-maximal-square](https://github.com/navvyiin/DSA/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/navvyiin/DSA/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/navvyiin/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/navvyiin/DSA/tree/master/0264-ugly-number-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -252,6 +254,7 @@ LeetCode and GeeksforGeeks
 | [0219-contains-duplicate-ii](https://github.com/navvyiin/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/navvyiin/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/navvyiin/DSA/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/navvyiin/DSA/tree/master/0264-ugly-number-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -643,6 +646,7 @@ LeetCode and GeeksforGeeks
 | [0215-kth-largest-element-in-an-array](https://github.com/navvyiin/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/navvyiin/DSA/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/navvyiin/DSA/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/navvyiin/DSA/tree/master/0264-ugly-number-ii) |
 ## Quickselect
 |  |
 | ------- |
