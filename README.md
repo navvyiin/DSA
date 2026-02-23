@@ -26,6 +26,7 @@ LeetCode and GeeksforGeeks
 | [0231-power-of-two](https://github.com/navvyiin/DSA/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/navvyiin/DSA/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/navvyiin/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/navvyiin/DSA/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@ LeetCode and GeeksforGeeks
 | ------- |
 | [0067-add-binary](https://github.com/navvyiin/DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/navvyiin/DSA/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/navvyiin/DSA/tree/master/0258-add-digits) |
 ## Array
 |  |
 | ------- |
@@ -618,6 +620,7 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/navvyiin/DSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/navvyiin/DSA/tree/master/0258-add-digits) |
 ## Topological Sort
 |  |
 | ------- |
