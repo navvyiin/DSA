@@ -162,6 +162,7 @@ LeetCode and GeeksforGeeks
 | [0268-missing-number](https://github.com/navvyiin/DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/navvyiin/DSA/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/navvyiin/DSA/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/navvyiin/DSA/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -302,6 +303,7 @@ LeetCode and GeeksforGeeks
 | [0189-rotate-array](https://github.com/navvyiin/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/navvyiin/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/navvyiin/DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/navvyiin/DSA/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
