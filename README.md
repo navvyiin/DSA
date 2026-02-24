@@ -176,6 +176,7 @@ LeetCode and GeeksforGeeks
 | [0240-search-a-2d-matrix-ii](https://github.com/navvyiin/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/navvyiin/DSA/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/navvyiin/DSA/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/navvyiin/DSA/tree/master/0278-first-bad-version) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -696,4 +697,8 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0274-h-index](https://github.com/navvyiin/DSA/tree/master/0274-h-index) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/navvyiin/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
