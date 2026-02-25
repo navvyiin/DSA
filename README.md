@@ -34,6 +34,7 @@ LeetCode and GeeksforGeeks
 | [0279-perfect-squares](https://github.com/navvyiin/DSA/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/navvyiin/DSA/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/navvyiin/DSA/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/navvyiin/DSA/tree/master/0313-super-ugly-number) |
 ## String
 |  |
 | ------- |
@@ -182,6 +183,7 @@ LeetCode and GeeksforGeeks
 | [0307-range-sum-query-mutable](https://github.com/navvyiin/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/navvyiin/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/navvyiin/DSA/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/navvyiin/DSA/tree/master/0313-super-ugly-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -236,6 +238,7 @@ LeetCode and GeeksforGeeks
 | [0300-longest-increasing-subsequence](https://github.com/navvyiin/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/navvyiin/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/navvyiin/DSA/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/navvyiin/DSA/tree/master/0313-super-ugly-number) |
 ## Memoization
 |  |
 | ------- |
