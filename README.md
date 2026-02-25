@@ -76,6 +76,7 @@ LeetCode and GeeksforGeeks
 | [0282-expression-add-operators](https://github.com/navvyiin/DSA/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/navvyiin/DSA/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navvyiin/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/navvyiin/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -368,6 +369,7 @@ LeetCode and GeeksforGeeks
 | [0216-combination-sum-iii](https://github.com/navvyiin/DSA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/navvyiin/DSA/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/navvyiin/DSA/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/navvyiin/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -542,6 +544,7 @@ LeetCode and GeeksforGeeks
 | [0226-invert-binary-tree](https://github.com/navvyiin/DSA/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/navvyiin/DSA/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navvyiin/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/navvyiin/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
