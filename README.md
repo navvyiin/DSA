@@ -173,6 +173,7 @@ LeetCode and GeeksforGeeks
 | [0284-peeking-iterator](https://github.com/navvyiin/DSA/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/navvyiin/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/navvyiin/DSA/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/navvyiin/DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +191,7 @@ LeetCode and GeeksforGeeks
 | [0275-h-index-ii](https://github.com/navvyiin/DSA/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/navvyiin/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/navvyiin/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/navvyiin/DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -223,6 +225,7 @@ LeetCode and GeeksforGeeks
 | [0241-different-ways-to-add-parentheses](https://github.com/navvyiin/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/navvyiin/DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/navvyiin/DSA/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/navvyiin/DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Memoization
 |  |
 | ------- |
