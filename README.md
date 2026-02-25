@@ -317,6 +317,7 @@ LeetCode and GeeksforGeeks
 | [0234-palindrome-linked-list](https://github.com/navvyiin/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/navvyiin/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/navvyiin/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/navvyiin/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
 |  |
 | ------- |
@@ -335,6 +336,7 @@ LeetCode and GeeksforGeeks
 | [0242-valid-anagram](https://github.com/navvyiin/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/navvyiin/DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/navvyiin/DSA/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/navvyiin/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Sliding Window
 |  |
 | ------- |
@@ -596,6 +598,7 @@ LeetCode and GeeksforGeeks
 | [0225-implement-stack-using-queues](https://github.com/navvyiin/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/navvyiin/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/navvyiin/DSA/tree/master/0284-peeking-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/navvyiin/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -683,6 +686,7 @@ LeetCode and GeeksforGeeks
 | [0218-the-skyline-problem](https://github.com/navvyiin/DSA/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/navvyiin/DSA/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/navvyiin/DSA/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/navvyiin/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Quickselect
 |  |
 | ------- |
@@ -730,4 +734,8 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/navvyiin/DSA/tree/master/0292-nim-game) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/navvyiin/DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
