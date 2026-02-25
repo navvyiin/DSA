@@ -176,6 +176,7 @@ LeetCode and GeeksforGeeks
 | [0289-game-of-life](https://github.com/navvyiin/DSA/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/navvyiin/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/navvyiin/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/navvyiin/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 ## Binary Search
 |  |
 | ------- |
@@ -301,6 +302,7 @@ LeetCode and GeeksforGeeks
 | [0221-maximal-square](https://github.com/navvyiin/DSA/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/navvyiin/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/navvyiin/DSA/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/navvyiin/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 ## Two Pointers
 |  |
 | ------- |
@@ -613,6 +615,7 @@ LeetCode and GeeksforGeeks
 | [0295-find-median-from-data-stream](https://github.com/navvyiin/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navvyiin/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/navvyiin/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/navvyiin/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -690,6 +693,7 @@ LeetCode and GeeksforGeeks
 | [0209-minimum-size-subarray-sum](https://github.com/navvyiin/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/navvyiin/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/navvyiin/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/navvyiin/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 ## String Matching
 |  |
 | ------- |
