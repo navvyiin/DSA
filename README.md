@@ -76,6 +76,7 @@ LeetCode and GeeksforGeeks
 | [0282-expression-add-operators](https://github.com/navvyiin/DSA/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/navvyiin/DSA/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navvyiin/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/navvyiin/DSA/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/navvyiin/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/navvyiin/DSA/tree/master/0306-additive-number) |
 ## Bit Manipulation
@@ -289,6 +290,7 @@ LeetCode and GeeksforGeeks
 | [0264-ugly-number-ii](https://github.com/navvyiin/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/navvyiin/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/navvyiin/DSA/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/navvyiin/DSA/tree/master/0299-bulls-and-cows) |
 ## Matrix
 |  |
 | ------- |
@@ -636,6 +638,7 @@ LeetCode and GeeksforGeeks
 | ------- |
 | [0169-majority-element](https://github.com/navvyiin/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/navvyiin/DSA/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/navvyiin/DSA/tree/master/0299-bulls-and-cows) |
 ## Iterator
 |  |
 | ------- |
