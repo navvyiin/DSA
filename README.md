@@ -414,6 +414,7 @@ LeetCode and GeeksforGeeks
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/navvyiin/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/navvyiin/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navvyiin/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/navvyiin/DSA/tree/master/0310-minimum-height-trees) |
 ## Linked List
 |  |
 | ------- |
@@ -555,6 +556,7 @@ LeetCode and GeeksforGeeks
 | [0279-perfect-squares](https://github.com/navvyiin/DSA/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navvyiin/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/navvyiin/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/navvyiin/DSA/tree/master/0310-minimum-height-trees) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -589,6 +591,7 @@ LeetCode and GeeksforGeeks
 | [0133-clone-graph](https://github.com/navvyiin/DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/navvyiin/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/navvyiin/DSA/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/navvyiin/DSA/tree/master/0310-minimum-height-trees) |
 ## Trie
 |  |
 | ------- |
@@ -697,6 +700,7 @@ LeetCode and GeeksforGeeks
 | ------- |
 | [0207-course-schedule](https://github.com/navvyiin/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/navvyiin/DSA/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/navvyiin/DSA/tree/master/0310-minimum-height-trees) |
 ## Prefix Sum
 |  |
 | ------- |
