@@ -179,6 +179,7 @@ LeetCode and GeeksforGeeks
 | [0300-longest-increasing-subsequence](https://github.com/navvyiin/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/navvyiin/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/navvyiin/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/navvyiin/DSA/tree/master/0307-range-sum-query-mutable) |
 ## Binary Search
 |  |
 | ------- |
@@ -566,6 +567,7 @@ LeetCode and GeeksforGeeks
 | [0215-kth-largest-element-in-an-array](https://github.com/navvyiin/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/navvyiin/DSA/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/navvyiin/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/navvyiin/DSA/tree/master/0307-range-sum-query-mutable) |
 ## Greedy
 |  |
 | ------- |
@@ -620,6 +622,7 @@ LeetCode and GeeksforGeeks
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navvyiin/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/navvyiin/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/navvyiin/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/navvyiin/DSA/tree/master/0307-range-sum-query-mutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -719,10 +722,12 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/navvyiin/DSA/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/navvyiin/DSA/tree/master/0307-range-sum-query-mutable) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/navvyiin/DSA/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/navvyiin/DSA/tree/master/0307-range-sum-query-mutable) |
 ## Sweep Line
 |  |
 | ------- |
