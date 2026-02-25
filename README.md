@@ -81,6 +81,7 @@ LeetCode and GeeksforGeeks
 | [0301-remove-invalid-parentheses](https://github.com/navvyiin/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/navvyiin/DSA/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/navvyiin/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/navvyiin/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,6 +100,7 @@ LeetCode and GeeksforGeeks
 | [0260-single-number-iii](https://github.com/navvyiin/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/navvyiin/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/navvyiin/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/navvyiin/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 ## Simulation
 |  |
 | ------- |
@@ -186,6 +188,7 @@ LeetCode and GeeksforGeeks
 | [0312-burst-balloons](https://github.com/navvyiin/DSA/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/navvyiin/DSA/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/navvyiin/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0318-maximum-product-of-word-lengths](https://github.com/navvyiin/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 ## Binary Search
 |  |
 | ------- |
