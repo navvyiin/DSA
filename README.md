@@ -195,6 +195,7 @@ LeetCode and GeeksforGeeks
 | [0322-coin-change](https://github.com/navvyiin/DSA/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/navvyiin/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/navvyiin/DSA/tree/master/0327-count-of-range-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -253,6 +254,7 @@ LeetCode and GeeksforGeeks
 | [0312-burst-balloons](https://github.com/navvyiin/DSA/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/navvyiin/DSA/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/navvyiin/DSA/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Memoization
 |  |
 | ------- |
@@ -260,6 +262,7 @@ LeetCode and GeeksforGeeks
 | [0139-word-break](https://github.com/navvyiin/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/navvyiin/DSA/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/navvyiin/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -330,6 +333,7 @@ LeetCode and GeeksforGeeks
 | [0240-search-a-2d-matrix-ii](https://github.com/navvyiin/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/navvyiin/DSA/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/navvyiin/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -438,6 +442,7 @@ LeetCode and GeeksforGeeks
 | [0257-binary-tree-paths](https://github.com/navvyiin/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navvyiin/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/navvyiin/DSA/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -584,6 +589,7 @@ LeetCode and GeeksforGeeks
 | [0301-remove-invalid-parentheses](https://github.com/navvyiin/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/navvyiin/DSA/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/navvyiin/DSA/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -625,6 +631,7 @@ LeetCode and GeeksforGeeks
 | [0207-course-schedule](https://github.com/navvyiin/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/navvyiin/DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/navvyiin/DSA/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Trie
 |  |
 | ------- |
@@ -737,6 +744,7 @@ LeetCode and GeeksforGeeks
 | [0207-course-schedule](https://github.com/navvyiin/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/navvyiin/DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/navvyiin/DSA/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
