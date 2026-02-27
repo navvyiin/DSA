@@ -206,6 +206,7 @@ LeetCode and GeeksforGeeks
 | [0334-increasing-triplet-subsequence](https://github.com/navvyiin/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/navvyiin/DSA/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/navvyiin/DSA/tree/master/0336-palindrome-pairs) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/navvyiin/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -226,6 +227,7 @@ LeetCode and GeeksforGeeks
 | [0300-longest-increasing-subsequence](https://github.com/navvyiin/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/navvyiin/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/navvyiin/DSA/tree/master/0327-count-of-range-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/navvyiin/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -332,6 +334,7 @@ LeetCode and GeeksforGeeks
 | [0290-word-pattern](https://github.com/navvyiin/DSA/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/navvyiin/DSA/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/navvyiin/DSA/tree/master/0336-palindrome-pairs) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/navvyiin/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -372,6 +375,7 @@ LeetCode and GeeksforGeeks
 | [0287-find-the-duplicate-number](https://github.com/navvyiin/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/navvyiin/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/navvyiin/DSA/tree/master/0321-create-maximum-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/navvyiin/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -393,6 +397,7 @@ LeetCode and GeeksforGeeks
 | [0295-find-median-from-data-stream](https://github.com/navvyiin/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/navvyiin/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/navvyiin/DSA/tree/master/0332-reconstruct-itinerary) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/navvyiin/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
 |  |
 | ------- |
