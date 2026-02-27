@@ -87,6 +87,7 @@ LeetCode and GeeksforGeeks
 | [0318-maximum-product-of-word-lengths](https://github.com/navvyiin/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/navvyiin/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/navvyiin/DSA/tree/master/0332-reconstruct-itinerary) |
+| [0336-palindrome-pairs](https://github.com/navvyiin/DSA/tree/master/0336-palindrome-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -203,6 +204,7 @@ LeetCode and GeeksforGeeks
 | [0332-reconstruct-itinerary](https://github.com/navvyiin/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/navvyiin/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/navvyiin/DSA/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/navvyiin/DSA/tree/master/0336-palindrome-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -326,6 +328,7 @@ LeetCode and GeeksforGeeks
 | [0268-missing-number](https://github.com/navvyiin/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/navvyiin/DSA/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/navvyiin/DSA/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/navvyiin/DSA/tree/master/0336-palindrome-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -655,6 +658,7 @@ LeetCode and GeeksforGeeks
 | [0208-implement-trie-prefix-tree](https://github.com/navvyiin/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/navvyiin/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/navvyiin/DSA/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/navvyiin/DSA/tree/master/0336-palindrome-pairs) |
 ## Recursion
 |  |
 | ------- |
