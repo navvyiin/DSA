@@ -340,6 +340,7 @@ LeetCode and GeeksforGeeks
 | [0336-palindrome-pairs](https://github.com/navvyiin/DSA/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navvyiin/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/navvyiin/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0355-design-twitter](https://github.com/navvyiin/DSA/tree/master/0355-design-twitter) |
 ## Matrix
 |  |
 | ------- |
@@ -495,6 +496,7 @@ LeetCode and GeeksforGeeks
 | [0234-palindrome-linked-list](https://github.com/navvyiin/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/navvyiin/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/navvyiin/DSA/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/navvyiin/DSA/tree/master/0355-design-twitter) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -707,6 +709,7 @@ LeetCode and GeeksforGeeks
 | [0304-range-sum-query-2d-immutable](https://github.com/navvyiin/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/navvyiin/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/navvyiin/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0355-design-twitter](https://github.com/navvyiin/DSA/tree/master/0355-design-twitter) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -804,6 +807,7 @@ LeetCode and GeeksforGeeks
 | [0264-ugly-number-ii](https://github.com/navvyiin/DSA/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/navvyiin/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/navvyiin/DSA/tree/master/0332-reconstruct-itinerary) |
+| [0355-design-twitter](https://github.com/navvyiin/DSA/tree/master/0355-design-twitter) |
 ## Quickselect
 |  |
 | ------- |
