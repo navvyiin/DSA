@@ -228,6 +228,7 @@ LeetCode and GeeksforGeeks
 | [0315-count-of-smaller-numbers-after-self](https://github.com/navvyiin/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/navvyiin/DSA/tree/master/0327-count-of-range-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navvyiin/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/navvyiin/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -335,6 +336,7 @@ LeetCode and GeeksforGeeks
 | [0299-bulls-and-cows](https://github.com/navvyiin/DSA/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/navvyiin/DSA/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navvyiin/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/navvyiin/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Matrix
 |  |
 | ------- |
@@ -652,6 +654,7 @@ LeetCode and GeeksforGeeks
 | [0128-longest-consecutive-sequence](https://github.com/navvyiin/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/navvyiin/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/navvyiin/DSA/tree/master/0200-number-of-islands) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/navvyiin/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Graph Theory
 |  |
 | ------- |
@@ -699,6 +702,7 @@ LeetCode and GeeksforGeeks
 | [0303-range-sum-query-immutable](https://github.com/navvyiin/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/navvyiin/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/navvyiin/DSA/tree/master/0307-range-sum-query-mutable) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/navvyiin/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -826,6 +830,7 @@ LeetCode and GeeksforGeeks
 | [0220-contains-duplicate-iii](https://github.com/navvyiin/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/navvyiin/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/navvyiin/DSA/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/navvyiin/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Queue
 |  |
 | ------- |
@@ -857,6 +862,7 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/navvyiin/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/navvyiin/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Eulerian Circuit
 |  |
 | ------- |
