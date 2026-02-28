@@ -38,6 +38,7 @@ LeetCode and GeeksforGeeks
 | [0319-bulb-switcher](https://github.com/navvyiin/DSA/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/navvyiin/DSA/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/navvyiin/DSA/tree/master/0335-self-crossing) |
+| [0357-count-numbers-with-unique-digits](https://github.com/navvyiin/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 ## String
 |  |
 | ------- |
@@ -273,6 +274,7 @@ LeetCode and GeeksforGeeks
 | [0337-house-robber-iii](https://github.com/navvyiin/DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/navvyiin/DSA/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/navvyiin/DSA/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/navvyiin/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 ## Memoization
 |  |
 | ------- |
@@ -434,6 +436,7 @@ LeetCode and GeeksforGeeks
 | [0282-expression-add-operators](https://github.com/navvyiin/DSA/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/navvyiin/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/navvyiin/DSA/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/navvyiin/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 ## Depth-First Search
 |  |
 | ------- |
