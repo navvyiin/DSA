@@ -209,6 +209,7 @@ LeetCode and GeeksforGeeks
 | [0336-palindrome-pairs](https://github.com/navvyiin/DSA/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navvyiin/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/navvyiin/DSA/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/navvyiin/DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -232,6 +233,7 @@ LeetCode and GeeksforGeeks
 | [0350-intersection-of-two-arrays-ii](https://github.com/navvyiin/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/navvyiin/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/navvyiin/DSA/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/navvyiin/DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -359,6 +361,7 @@ LeetCode and GeeksforGeeks
 | [0289-game-of-life](https://github.com/navvyiin/DSA/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/navvyiin/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/navvyiin/DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -797,6 +800,7 @@ LeetCode and GeeksforGeeks
 | [0238-product-of-array-except-self](https://github.com/navvyiin/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/navvyiin/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/navvyiin/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/navvyiin/DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## String Matching
 |  |
 | ------- |
@@ -842,6 +846,7 @@ LeetCode and GeeksforGeeks
 | [0315-count-of-smaller-numbers-after-self](https://github.com/navvyiin/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/navvyiin/DSA/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/navvyiin/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/navvyiin/DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Queue
 |  |
 | ------- |
