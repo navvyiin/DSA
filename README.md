@@ -41,6 +41,7 @@ LeetCode and GeeksforGeeks
 | [0357-count-numbers-with-unique-digits](https://github.com/navvyiin/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/navvyiin/DSA/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/navvyiin/DSA/tree/master/0367-valid-perfect-square) |
+| [0368-largest-divisible-subset](https://github.com/navvyiin/DSA/tree/master/0368-largest-divisible-subset) |
 ## String
 |  |
 | ------- |
@@ -212,6 +213,7 @@ LeetCode and GeeksforGeeks
 | [0350-intersection-of-two-arrays-ii](https://github.com/navvyiin/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/navvyiin/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/navvyiin/DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0368-largest-divisible-subset](https://github.com/navvyiin/DSA/tree/master/0368-largest-divisible-subset) |
 ## Binary Search
 |  |
 | ------- |
@@ -280,6 +282,7 @@ LeetCode and GeeksforGeeks
 | [0338-counting-bits](https://github.com/navvyiin/DSA/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/navvyiin/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/navvyiin/DSA/tree/master/0357-count-numbers-with-unique-digits) |
+| [0368-largest-divisible-subset](https://github.com/navvyiin/DSA/tree/master/0368-largest-divisible-subset) |
 ## Memoization
 |  |
 | ------- |
@@ -413,6 +416,7 @@ LeetCode and GeeksforGeeks
 | [0332-reconstruct-itinerary](https://github.com/navvyiin/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navvyiin/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/navvyiin/DSA/tree/master/0354-russian-doll-envelopes) |
+| [0368-largest-divisible-subset](https://github.com/navvyiin/DSA/tree/master/0368-largest-divisible-subset) |
 ## Sliding Window
 |  |
 | ------- |
