@@ -44,6 +44,7 @@ LeetCode and GeeksforGeeks
 | [0368-largest-divisible-subset](https://github.com/navvyiin/DSA/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/navvyiin/DSA/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/navvyiin/DSA/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/navvyiin/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## String
 |  |
@@ -292,6 +293,7 @@ LeetCode and GeeksforGeeks
 | [0354-russian-doll-envelopes](https://github.com/navvyiin/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/navvyiin/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/navvyiin/DSA/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/navvyiin/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -896,6 +898,7 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/navvyiin/DSA/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/navvyiin/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Data Stream
 |  |
 | ------- |
