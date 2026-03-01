@@ -93,6 +93,7 @@ LeetCode and GeeksforGeeks
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/navvyiin/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/navvyiin/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/navvyiin/DSA/tree/master/0336-palindrome-pairs) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -672,6 +673,7 @@ LeetCode and GeeksforGeeks
 | [0324-wiggle-sort-ii](https://github.com/navvyiin/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/navvyiin/DSA/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/navvyiin/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Union-Find
 |  |
 | ------- |
