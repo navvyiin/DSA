@@ -223,6 +223,7 @@ LeetCode and GeeksforGeeks
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/navvyiin/DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0368-largest-divisible-subset](https://github.com/navvyiin/DSA/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/navvyiin/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0376-wiggle-subsequence](https://github.com/navvyiin/DSA/tree/master/0376-wiggle-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -294,6 +295,7 @@ LeetCode and GeeksforGeeks
 | [0357-count-numbers-with-unique-digits](https://github.com/navvyiin/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/navvyiin/DSA/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/navvyiin/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0376-wiggle-subsequence](https://github.com/navvyiin/DSA/tree/master/0376-wiggle-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -681,6 +683,7 @@ LeetCode and GeeksforGeeks
 | [0324-wiggle-sort-ii](https://github.com/navvyiin/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/navvyiin/DSA/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/navvyiin/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0376-wiggle-subsequence](https://github.com/navvyiin/DSA/tree/master/0376-wiggle-subsequence) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Union-Find
 |  |
