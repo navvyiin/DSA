@@ -221,6 +221,7 @@ LeetCode and GeeksforGeeks
 | [0354-russian-doll-envelopes](https://github.com/navvyiin/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/navvyiin/DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0368-largest-divisible-subset](https://github.com/navvyiin/DSA/tree/master/0368-largest-divisible-subset) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/navvyiin/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -833,6 +834,7 @@ LeetCode and GeeksforGeeks
 | [0295-find-median-from-data-stream](https://github.com/navvyiin/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/navvyiin/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0355-design-twitter](https://github.com/navvyiin/DSA/tree/master/0355-design-twitter) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/navvyiin/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Quickselect
 |  |
 | ------- |
