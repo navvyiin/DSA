@@ -43,6 +43,7 @@ LeetCode and GeeksforGeeks
 | [0367-valid-perfect-square](https://github.com/navvyiin/DSA/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/navvyiin/DSA/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/navvyiin/DSA/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/navvyiin/DSA/tree/master/0372-super-pow) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## String
 |  |
@@ -663,6 +664,7 @@ LeetCode and GeeksforGeeks
 | [0315-count-of-smaller-numbers-after-self](https://github.com/navvyiin/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/navvyiin/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/navvyiin/DSA/tree/master/0327-count-of-range-sum) |
+| [0372-super-pow](https://github.com/navvyiin/DSA/tree/master/0372-super-pow) |
 ## Greedy
 |  |
 | ------- |
