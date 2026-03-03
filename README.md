@@ -99,6 +99,7 @@ LeetCode and GeeksforGeeks
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/navvyiin/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/navvyiin/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/navvyiin/DSA/tree/master/0336-palindrome-pairs) |
+| [0383-ransom-note](https://github.com/navvyiin/DSA/tree/master/0383-ransom-note) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Bit Manipulation
@@ -377,6 +378,7 @@ LeetCode and GeeksforGeeks
 | [0355-design-twitter](https://github.com/navvyiin/DSA/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/navvyiin/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/navvyiin/DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0383-ransom-note](https://github.com/navvyiin/DSA/tree/master/0383-ransom-note) |
 ## Matrix
 |  |
 | ------- |
@@ -782,6 +784,7 @@ LeetCode and GeeksforGeeks
 | [0169-majority-element](https://github.com/navvyiin/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/navvyiin/DSA/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/navvyiin/DSA/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/navvyiin/DSA/tree/master/0383-ransom-note) |
 ## Iterator
 |  |
 | ------- |
