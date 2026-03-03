@@ -48,6 +48,7 @@ LeetCode and GeeksforGeeks
 | [0380-insert-delete-getrandom-o1](https://github.com/navvyiin/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/navvyiin/DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/navvyiin/DSA/tree/master/0382-linked-list-random-node) |
+| [0384-shuffle-an-array](https://github.com/navvyiin/DSA/tree/master/0384-shuffle-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## String
 |  |
@@ -234,6 +235,7 @@ LeetCode and GeeksforGeeks
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/navvyiin/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/navvyiin/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/navvyiin/DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0384-shuffle-an-array](https://github.com/navvyiin/DSA/tree/master/0384-shuffle-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -762,6 +764,7 @@ LeetCode and GeeksforGeeks
 | [0355-design-twitter](https://github.com/navvyiin/DSA/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/navvyiin/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/navvyiin/DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0384-shuffle-an-array](https://github.com/navvyiin/DSA/tree/master/0384-shuffle-an-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -940,6 +943,7 @@ LeetCode and GeeksforGeeks
 | [0380-insert-delete-getrandom-o1](https://github.com/navvyiin/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/navvyiin/DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/navvyiin/DSA/tree/master/0382-linked-list-random-node) |
+| [0384-shuffle-an-array](https://github.com/navvyiin/DSA/tree/master/0384-shuffle-an-array) |
 ## Reservoir Sampling
 |  |
 | ------- |
