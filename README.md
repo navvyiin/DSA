@@ -107,6 +107,7 @@ LeetCode and GeeksforGeeks
 | [0387-first-unique-character-in-a-string](https://github.com/navvyiin/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/navvyiin/DSA/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/navvyiin/DSA/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/navvyiin/DSA/tree/master/0392-is-subsequence) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Bit Manipulation
@@ -318,6 +319,7 @@ LeetCode and GeeksforGeeks
 | [0375-guess-number-higher-or-lower-ii](https://github.com/navvyiin/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/navvyiin/DSA/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/navvyiin/DSA/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/navvyiin/DSA/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -437,6 +439,7 @@ LeetCode and GeeksforGeeks
 | [0295-find-median-from-data-stream](https://github.com/navvyiin/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/navvyiin/DSA/tree/master/0321-create-maximum-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navvyiin/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/navvyiin/DSA/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
