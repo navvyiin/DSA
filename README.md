@@ -101,6 +101,7 @@ LeetCode and GeeksforGeeks
 | [0332-reconstruct-itinerary](https://github.com/navvyiin/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/navvyiin/DSA/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/navvyiin/DSA/tree/master/0383-ransom-note) |
+| [0385-mini-parser](https://github.com/navvyiin/DSA/tree/master/0385-mini-parser) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Bit Manipulation
@@ -340,6 +341,7 @@ LeetCode and GeeksforGeeks
 | [0316-remove-duplicate-letters](https://github.com/navvyiin/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/navvyiin/DSA/tree/master/0321-create-maximum-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/navvyiin/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0385-mini-parser](https://github.com/navvyiin/DSA/tree/master/0385-mini-parser) |
 ## Hash Table
 |  |
 | ------- |
@@ -518,6 +520,7 @@ LeetCode and GeeksforGeeks
 | [0332-reconstruct-itinerary](https://github.com/navvyiin/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/navvyiin/DSA/tree/master/0337-house-robber-iii) |
 | [0365-water-and-jug-problem](https://github.com/navvyiin/DSA/tree/master/0365-water-and-jug-problem) |
+| [0385-mini-parser](https://github.com/navvyiin/DSA/tree/master/0385-mini-parser) |
 ## Linked List
 |  |
 | ------- |
