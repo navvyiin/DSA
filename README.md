@@ -103,6 +103,7 @@ LeetCode and GeeksforGeeks
 | [0383-ransom-note](https://github.com/navvyiin/DSA/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/navvyiin/DSA/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/navvyiin/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/navvyiin/DSA/tree/master/0388-longest-absolute-file-path) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Bit Manipulation
@@ -343,6 +344,7 @@ LeetCode and GeeksforGeeks
 | [0321-create-maximum-number](https://github.com/navvyiin/DSA/tree/master/0321-create-maximum-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/navvyiin/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0385-mini-parser](https://github.com/navvyiin/DSA/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/navvyiin/DSA/tree/master/0388-longest-absolute-file-path) |
 ## Hash Table
 |  |
 | ------- |
@@ -524,6 +526,7 @@ LeetCode and GeeksforGeeks
 | [0365-water-and-jug-problem](https://github.com/navvyiin/DSA/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/navvyiin/DSA/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/navvyiin/DSA/tree/master/0386-lexicographical-numbers) |
+| [0388-longest-absolute-file-path](https://github.com/navvyiin/DSA/tree/master/0388-longest-absolute-file-path) |
 ## Linked List
 |  |
 | ------- |
