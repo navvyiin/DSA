@@ -108,6 +108,7 @@ LeetCode and GeeksforGeeks
 | [0388-longest-absolute-file-path](https://github.com/navvyiin/DSA/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/navvyiin/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/navvyiin/DSA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/navvyiin/DSA/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Bit Manipulation
@@ -354,6 +355,7 @@ LeetCode and GeeksforGeeks
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/navvyiin/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0385-mini-parser](https://github.com/navvyiin/DSA/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/navvyiin/DSA/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/navvyiin/DSA/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -767,6 +769,7 @@ LeetCode and GeeksforGeeks
 | [0273-integer-to-english-words](https://github.com/navvyiin/DSA/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/navvyiin/DSA/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/navvyiin/DSA/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/navvyiin/DSA/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Design
 |  |
