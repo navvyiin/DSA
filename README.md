@@ -98,6 +98,7 @@ LeetCode and GeeksforGeeks
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/navvyiin/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/navvyiin/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/navvyiin/DSA/tree/master/0336-palindrome-pairs) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Bit Manipulation
 |  |
@@ -128,6 +129,7 @@ LeetCode and GeeksforGeeks
 | [0068-text-justification](https://github.com/navvyiin/DSA/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/navvyiin/DSA/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/navvyiin/DSA/tree/master/0289-game-of-life) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Array
 |  |
@@ -735,6 +737,7 @@ LeetCode and GeeksforGeeks
 | [0241-different-ways-to-add-parentheses](https://github.com/navvyiin/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/navvyiin/DSA/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/navvyiin/DSA/tree/master/0326-power-of-three) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Design
 |  |
 | ------- |
