@@ -521,6 +521,7 @@ LeetCode and GeeksforGeeks
 | [0337-house-robber-iii](https://github.com/navvyiin/DSA/tree/master/0337-house-robber-iii) |
 | [0365-water-and-jug-problem](https://github.com/navvyiin/DSA/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/navvyiin/DSA/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/navvyiin/DSA/tree/master/0386-lexicographical-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -733,6 +734,7 @@ LeetCode and GeeksforGeeks
 | [0211-design-add-and-search-words-data-structure](https://github.com/navvyiin/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/navvyiin/DSA/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/navvyiin/DSA/tree/master/0336-palindrome-pairs) |
+| [0386-lexicographical-numbers](https://github.com/navvyiin/DSA/tree/master/0386-lexicographical-numbers) |
 ## Recursion
 |  |
 | ------- |
