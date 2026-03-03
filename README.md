@@ -51,6 +51,7 @@ LeetCode and GeeksforGeeks
 | [0384-shuffle-an-array](https://github.com/navvyiin/DSA/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/navvyiin/DSA/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/navvyiin/DSA/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/navvyiin/DSA/tree/master/0396-rotate-function) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## String
 |  |
@@ -249,6 +250,7 @@ LeetCode and GeeksforGeeks
 | [0384-shuffle-an-array](https://github.com/navvyiin/DSA/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/navvyiin/DSA/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/navvyiin/DSA/tree/master/0393-utf-8-validation) |
+| [0396-rotate-function](https://github.com/navvyiin/DSA/tree/master/0396-rotate-function) |
 ## Binary Search
 |  |
 | ------- |
@@ -324,6 +326,7 @@ LeetCode and GeeksforGeeks
 | [0376-wiggle-subsequence](https://github.com/navvyiin/DSA/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/navvyiin/DSA/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/navvyiin/DSA/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/navvyiin/DSA/tree/master/0396-rotate-function) |
 ## Memoization
 |  |
 | ------- |
