@@ -52,6 +52,7 @@ LeetCode and GeeksforGeeks
 | [0390-elimination-game](https://github.com/navvyiin/DSA/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/navvyiin/DSA/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/navvyiin/DSA/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/navvyiin/DSA/tree/master/0398-random-pick-index) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## String
 |  |
@@ -408,6 +409,7 @@ LeetCode and GeeksforGeeks
 | [0389-find-the-difference](https://github.com/navvyiin/DSA/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/navvyiin/DSA/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/navvyiin/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/navvyiin/DSA/tree/master/0398-random-pick-index) |
 ## Matrix
 |  |
 | ------- |
@@ -986,8 +988,10 @@ LeetCode and GeeksforGeeks
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/navvyiin/DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/navvyiin/DSA/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/navvyiin/DSA/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/navvyiin/DSA/tree/master/0398-random-pick-index) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/navvyiin/DSA/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/navvyiin/DSA/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
