@@ -49,6 +49,7 @@ LeetCode and GeeksforGeeks
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/navvyiin/DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/navvyiin/DSA/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/navvyiin/DSA/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/navvyiin/DSA/tree/master/0390-elimination-game) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## String
 |  |
@@ -757,6 +758,7 @@ LeetCode and GeeksforGeeks
 | [0241-different-ways-to-add-parentheses](https://github.com/navvyiin/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/navvyiin/DSA/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/navvyiin/DSA/tree/master/0326-power-of-three) |
+| [0390-elimination-game](https://github.com/navvyiin/DSA/tree/master/0390-elimination-game) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Design
 |  |
