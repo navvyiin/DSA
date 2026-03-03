@@ -104,6 +104,7 @@ LeetCode and GeeksforGeeks
 | [0385-mini-parser](https://github.com/navvyiin/DSA/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/navvyiin/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/navvyiin/DSA/tree/master/0388-longest-absolute-file-path) |
+| [0389-find-the-difference](https://github.com/navvyiin/DSA/tree/master/0389-find-the-difference) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Bit Manipulation
@@ -127,6 +128,7 @@ LeetCode and GeeksforGeeks
 | [0318-maximum-product-of-word-lengths](https://github.com/navvyiin/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/navvyiin/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/navvyiin/DSA/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/navvyiin/DSA/tree/master/0389-find-the-difference) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
 |  |
@@ -387,6 +389,7 @@ LeetCode and GeeksforGeeks
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/navvyiin/DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/navvyiin/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/navvyiin/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/navvyiin/DSA/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -455,6 +458,7 @@ LeetCode and GeeksforGeeks
 | [0354-russian-doll-envelopes](https://github.com/navvyiin/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/navvyiin/DSA/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/navvyiin/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/navvyiin/DSA/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
