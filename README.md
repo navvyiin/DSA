@@ -256,6 +256,7 @@ LeetCode and GeeksforGeeks
 | [0393-utf-8-validation](https://github.com/navvyiin/DSA/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/navvyiin/DSA/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/navvyiin/DSA/tree/master/0399-evaluate-division) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -432,6 +433,7 @@ LeetCode and GeeksforGeeks
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/navvyiin/DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/navvyiin/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Two Pointers
 |  |
 | ------- |
