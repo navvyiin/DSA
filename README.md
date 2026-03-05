@@ -287,6 +287,7 @@ LeetCode and GeeksforGeeks
 | [0419-battleships-in-a-board](https://github.com/navvyiin/DSA/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/navvyiin/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/navvyiin/DSA/tree/master/0427-construct-quad-tree) |
+| [0435-non-overlapping-intervals](https://github.com/navvyiin/DSA/tree/master/0435-non-overlapping-intervals) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
 |  |
@@ -371,6 +372,7 @@ LeetCode and GeeksforGeeks
 | [0410-split-array-largest-sum](https://github.com/navvyiin/DSA/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/navvyiin/DSA/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/navvyiin/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/navvyiin/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
@@ -535,6 +537,7 @@ LeetCode and GeeksforGeeks
 | [0389-find-the-difference](https://github.com/navvyiin/DSA/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/navvyiin/DSA/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/navvyiin/DSA/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/navvyiin/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -822,6 +825,7 @@ LeetCode and GeeksforGeeks
 | [0409-longest-palindrome](https://github.com/navvyiin/DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/navvyiin/DSA/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/navvyiin/DSA/tree/master/0420-strong-password-checker) |
+| [0435-non-overlapping-intervals](https://github.com/navvyiin/DSA/tree/master/0435-non-overlapping-intervals) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Union-Find
 |  |
