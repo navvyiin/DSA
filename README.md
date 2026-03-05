@@ -275,6 +275,7 @@ LeetCode and GeeksforGeeks
 | [0410-split-array-largest-sum](https://github.com/navvyiin/DSA/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/navvyiin/DSA/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/navvyiin/DSA/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/navvyiin/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
 |  |
@@ -358,6 +359,7 @@ LeetCode and GeeksforGeeks
 | [0403-frog-jump](https://github.com/navvyiin/DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/navvyiin/DSA/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/navvyiin/DSA/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/navvyiin/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
 |  |
 | ------- |
