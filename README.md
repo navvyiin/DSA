@@ -126,6 +126,7 @@ LeetCode and GeeksforGeeks
 | [0420-strong-password-checker](https://github.com/navvyiin/DSA/tree/master/0420-strong-password-checker) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/navvyiin/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/navvyiin/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/navvyiin/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/navvyiin/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -455,6 +456,7 @@ LeetCode and GeeksforGeeks
 | [0423-reconstruct-original-digits-from-english](https://github.com/navvyiin/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/navvyiin/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/navvyiin/DSA/tree/master/0432-all-oone-data-structure) |
+| [0433-minimum-genetic-mutation](https://github.com/navvyiin/DSA/tree/master/0433-minimum-genetic-mutation) |
 ## Matrix
 |  |
 | ------- |
@@ -779,6 +781,7 @@ LeetCode and GeeksforGeeks
 | [0407-trapping-rain-water-ii](https://github.com/navvyiin/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/navvyiin/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/navvyiin/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0433-minimum-genetic-mutation](https://github.com/navvyiin/DSA/tree/master/0433-minimum-genetic-mutation) |
 ## Divide and Conquer
 |  |
 | ------- |
