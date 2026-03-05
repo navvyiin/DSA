@@ -259,6 +259,7 @@ LeetCode and GeeksforGeeks
 | [0393-utf-8-validation](https://github.com/navvyiin/DSA/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/navvyiin/DSA/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/navvyiin/DSA/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/navvyiin/DSA/tree/master/0403-frog-jump) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
 |  |
@@ -338,6 +339,7 @@ LeetCode and GeeksforGeeks
 | [0392-is-subsequence](https://github.com/navvyiin/DSA/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/navvyiin/DSA/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/navvyiin/DSA/tree/master/0397-integer-replacement) |
+| [0403-frog-jump](https://github.com/navvyiin/DSA/tree/master/0403-frog-jump) |
 ## Memoization
 |  |
 | ------- |
