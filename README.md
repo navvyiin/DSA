@@ -266,6 +266,7 @@ LeetCode and GeeksforGeeks
 | [0403-frog-jump](https://github.com/navvyiin/DSA/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/navvyiin/DSA/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/navvyiin/DSA/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/navvyiin/DSA/tree/master/0410-split-array-largest-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
 |  |
@@ -295,6 +296,7 @@ LeetCode and GeeksforGeeks
 | [0374-guess-number-higher-or-lower](https://github.com/navvyiin/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/navvyiin/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/navvyiin/DSA/tree/master/0400-nth-digit) |
+| [0410-split-array-largest-sum](https://github.com/navvyiin/DSA/tree/master/0410-split-array-largest-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -346,6 +348,7 @@ LeetCode and GeeksforGeeks
 | [0396-rotate-function](https://github.com/navvyiin/DSA/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/navvyiin/DSA/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/navvyiin/DSA/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/navvyiin/DSA/tree/master/0410-split-array-largest-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -773,6 +776,7 @@ LeetCode and GeeksforGeeks
 | [0397-integer-replacement](https://github.com/navvyiin/DSA/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/navvyiin/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/navvyiin/DSA/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/navvyiin/DSA/tree/master/0410-split-array-largest-sum) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Union-Find
 |  |
@@ -927,6 +931,7 @@ LeetCode and GeeksforGeeks
 | [0303-range-sum-query-immutable](https://github.com/navvyiin/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/navvyiin/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/navvyiin/DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0410-split-array-largest-sum](https://github.com/navvyiin/DSA/tree/master/0410-split-array-largest-sum) |
 ## String Matching
 |  |
 | ------- |
