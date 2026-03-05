@@ -58,6 +58,7 @@ LeetCode and GeeksforGeeks
 | [0412-fizz-buzz](https://github.com/navvyiin/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/navvyiin/DSA/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/navvyiin/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0441-arranging-coins](https://github.com/navvyiin/DSA/tree/master/0441-arranging-coins) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## String
 |  |
@@ -321,6 +322,7 @@ LeetCode and GeeksforGeeks
 | [0400-nth-digit](https://github.com/navvyiin/DSA/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/navvyiin/DSA/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/navvyiin/DSA/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/navvyiin/DSA/tree/master/0441-arranging-coins) |
 ## Dynamic Programming
 |  |
 | ------- |
