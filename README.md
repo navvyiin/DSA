@@ -264,6 +264,7 @@ LeetCode and GeeksforGeeks
 | [0399-evaluate-division](https://github.com/navvyiin/DSA/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/navvyiin/DSA/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/navvyiin/DSA/tree/master/0406-queue-reconstruction-by-height) |
+| [0407-trapping-rain-water-ii](https://github.com/navvyiin/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
 |  |
@@ -443,6 +444,7 @@ LeetCode and GeeksforGeeks
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/navvyiin/DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/navvyiin/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/navvyiin/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Two Pointers
 |  |
@@ -732,6 +734,7 @@ LeetCode and GeeksforGeeks
 | [0365-water-and-jug-problem](https://github.com/navvyiin/DSA/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/navvyiin/DSA/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/navvyiin/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/navvyiin/DSA/tree/master/0407-trapping-rain-water-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -937,6 +940,7 @@ LeetCode and GeeksforGeeks
 | [0355-design-twitter](https://github.com/navvyiin/DSA/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/navvyiin/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/navvyiin/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/navvyiin/DSA/tree/master/0407-trapping-rain-water-ii) |
 ## Quickselect
 |  |
 | ------- |
