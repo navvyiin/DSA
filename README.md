@@ -141,6 +141,7 @@ LeetCode and GeeksforGeeks
 | [0389-find-the-difference](https://github.com/navvyiin/DSA/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/navvyiin/DSA/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/navvyiin/DSA/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/navvyiin/DSA/tree/master/0401-binary-watch) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
 |  |
@@ -518,6 +519,7 @@ LeetCode and GeeksforGeeks
 | [0301-remove-invalid-parentheses](https://github.com/navvyiin/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/navvyiin/DSA/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/navvyiin/DSA/tree/master/0357-count-numbers-with-unique-digits) |
+| [0401-binary-watch](https://github.com/navvyiin/DSA/tree/master/0401-binary-watch) |
 ## Depth-First Search
 |  |
 | ------- |
