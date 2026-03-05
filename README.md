@@ -271,6 +271,7 @@ LeetCode and GeeksforGeeks
 | [0407-trapping-rain-water-ii](https://github.com/navvyiin/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/navvyiin/DSA/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/navvyiin/DSA/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/navvyiin/DSA/tree/master/0414-third-maximum-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
 |  |
@@ -509,6 +510,7 @@ LeetCode and GeeksforGeeks
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/navvyiin/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/navvyiin/DSA/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/navvyiin/DSA/tree/master/0406-queue-reconstruction-by-height) |
+| [0414-third-maximum-number](https://github.com/navvyiin/DSA/tree/master/0414-third-maximum-number) |
 ## Sliding Window
 |  |
 | ------- |
