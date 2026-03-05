@@ -57,6 +57,7 @@ LeetCode and GeeksforGeeks
 | [0405-convert-a-number-to-hexadecimal](https://github.com/navvyiin/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/navvyiin/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/navvyiin/DSA/tree/master/0415-add-strings) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/navvyiin/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## String
 |  |
@@ -123,6 +124,7 @@ LeetCode and GeeksforGeeks
 | [0412-fizz-buzz](https://github.com/navvyiin/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/navvyiin/DSA/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/navvyiin/DSA/tree/master/0420-strong-password-checker) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/navvyiin/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/navvyiin/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -448,6 +450,7 @@ LeetCode and GeeksforGeeks
 | [0398-random-pick-index](https://github.com/navvyiin/DSA/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/navvyiin/DSA/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/navvyiin/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/navvyiin/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 ## Matrix
 |  |
 | ------- |
