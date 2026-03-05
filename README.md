@@ -567,6 +567,7 @@ LeetCode and GeeksforGeeks
 | [0386-lexicographical-numbers](https://github.com/navvyiin/DSA/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/navvyiin/DSA/tree/master/0388-longest-absolute-file-path) |
 | [0399-evaluate-division](https://github.com/navvyiin/DSA/tree/master/0399-evaluate-division) |
+| [0404-sum-of-left-leaves](https://github.com/navvyiin/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Linked List
 |  |
 | ------- |
@@ -641,6 +642,7 @@ LeetCode and GeeksforGeeks
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navvyiin/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/navvyiin/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/navvyiin/DSA/tree/master/0337-house-robber-iii) |
+| [0404-sum-of-left-leaves](https://github.com/navvyiin/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -681,6 +683,7 @@ LeetCode and GeeksforGeeks
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navvyiin/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/navvyiin/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/navvyiin/DSA/tree/master/0337-house-robber-iii) |
+| [0404-sum-of-left-leaves](https://github.com/navvyiin/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -723,6 +726,7 @@ LeetCode and GeeksforGeeks
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/navvyiin/DSA/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/navvyiin/DSA/tree/master/0399-evaluate-division) |
+| [0404-sum-of-left-leaves](https://github.com/navvyiin/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Divide and Conquer
 |  |
 | ------- |
