@@ -687,6 +687,7 @@ LeetCode and GeeksforGeeks
 | [0337-house-robber-iii](https://github.com/navvyiin/DSA/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/navvyiin/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0427-construct-quad-tree](https://github.com/navvyiin/DSA/tree/master/0427-construct-quad-tree) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/navvyiin/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -773,6 +774,7 @@ LeetCode and GeeksforGeeks
 | [0404-sum-of-left-leaves](https://github.com/navvyiin/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/navvyiin/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/navvyiin/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/navvyiin/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
