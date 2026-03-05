@@ -114,6 +114,7 @@ LeetCode and GeeksforGeeks
 | [0394-decode-string](https://github.com/navvyiin/DSA/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/navvyiin/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/navvyiin/DSA/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/navvyiin/DSA/tree/master/0402-remove-k-digits) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/navvyiin/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -371,6 +372,7 @@ LeetCode and GeeksforGeeks
 | [0385-mini-parser](https://github.com/navvyiin/DSA/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/navvyiin/DSA/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/navvyiin/DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/navvyiin/DSA/tree/master/0402-remove-k-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -596,6 +598,7 @@ LeetCode and GeeksforGeeks
 | [0085-maximal-rectangle](https://github.com/navvyiin/DSA/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/navvyiin/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/navvyiin/DSA/tree/master/0321-create-maximum-number) |
+| [0402-remove-k-digits](https://github.com/navvyiin/DSA/tree/master/0402-remove-k-digits) |
 ## Tree
 |  |
 | ------- |
@@ -752,6 +755,7 @@ LeetCode and GeeksforGeeks
 | [0334-increasing-triplet-subsequence](https://github.com/navvyiin/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/navvyiin/DSA/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/navvyiin/DSA/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/navvyiin/DSA/tree/master/0402-remove-k-digits) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Union-Find
 |  |
