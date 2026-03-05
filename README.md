@@ -125,6 +125,7 @@ LeetCode and GeeksforGeeks
 | [0415-add-strings](https://github.com/navvyiin/DSA/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/navvyiin/DSA/tree/master/0420-strong-password-checker) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/navvyiin/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0424-longest-repeating-character-replacement](https://github.com/navvyiin/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/navvyiin/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -451,6 +452,7 @@ LeetCode and GeeksforGeeks
 | [0409-longest-palindrome](https://github.com/navvyiin/DSA/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/navvyiin/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/navvyiin/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0424-longest-repeating-character-replacement](https://github.com/navvyiin/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Matrix
 |  |
 | ------- |
@@ -538,6 +540,7 @@ LeetCode and GeeksforGeeks
 | [0239-sliding-window-maximum](https://github.com/navvyiin/DSA/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/navvyiin/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/navvyiin/DSA/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/navvyiin/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Backtracking
 |  |
 | ------- |
