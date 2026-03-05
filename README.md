@@ -270,6 +270,7 @@ LeetCode and GeeksforGeeks
 | [0406-queue-reconstruction-by-height](https://github.com/navvyiin/DSA/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/navvyiin/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/navvyiin/DSA/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/navvyiin/DSA/tree/master/0413-arithmetic-slices) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
 |  |
@@ -352,6 +353,7 @@ LeetCode and GeeksforGeeks
 | [0397-integer-replacement](https://github.com/navvyiin/DSA/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/navvyiin/DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/navvyiin/DSA/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/navvyiin/DSA/tree/master/0413-arithmetic-slices) |
 ## Memoization
 |  |
 | ------- |
@@ -517,6 +519,7 @@ LeetCode and GeeksforGeeks
 | [0220-contains-duplicate-iii](https://github.com/navvyiin/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/navvyiin/DSA/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/navvyiin/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/navvyiin/DSA/tree/master/0413-arithmetic-slices) |
 ## Backtracking
 |  |
 | ------- |
