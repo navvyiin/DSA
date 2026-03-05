@@ -130,6 +130,7 @@ LeetCode and GeeksforGeeks
 | [0433-minimum-genetic-mutation](https://github.com/navvyiin/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/navvyiin/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/navvyiin/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/navvyiin/DSA/tree/master/0443-string-compression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/navvyiin/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -517,6 +518,7 @@ LeetCode and GeeksforGeeks
 | [0321-create-maximum-number](https://github.com/navvyiin/DSA/tree/master/0321-create-maximum-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navvyiin/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/navvyiin/DSA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/navvyiin/DSA/tree/master/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
