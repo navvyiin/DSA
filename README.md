@@ -307,6 +307,7 @@ LeetCode and GeeksforGeeks
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/navvyiin/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/navvyiin/DSA/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/navvyiin/DSA/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/navvyiin/DSA/tree/master/0456-132-pattern) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
@@ -340,6 +341,7 @@ LeetCode and GeeksforGeeks
 | [0410-split-array-largest-sum](https://github.com/navvyiin/DSA/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/navvyiin/DSA/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/navvyiin/DSA/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/navvyiin/DSA/tree/master/0456-132-pattern) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -433,6 +435,7 @@ LeetCode and GeeksforGeeks
 | [0394-decode-string](https://github.com/navvyiin/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/navvyiin/DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/navvyiin/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/navvyiin/DSA/tree/master/0456-132-pattern) |
 ## Hash Table
 |  |
 | ------- |
@@ -699,6 +702,7 @@ LeetCode and GeeksforGeeks
 | [0316-remove-duplicate-letters](https://github.com/navvyiin/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/navvyiin/DSA/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/navvyiin/DSA/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/navvyiin/DSA/tree/master/0456-132-pattern) |
 ## Tree
 |  |
 | ------- |
@@ -1099,6 +1103,7 @@ LeetCode and GeeksforGeeks
 | [0327-count-of-range-sum](https://github.com/navvyiin/DSA/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/navvyiin/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/navvyiin/DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0456-132-pattern](https://github.com/navvyiin/DSA/tree/master/0456-132-pattern) |
 ## Queue
 |  |
 | ------- |
