@@ -296,6 +296,7 @@ LeetCode and GeeksforGeeks
 | [0435-non-overlapping-intervals](https://github.com/navvyiin/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/navvyiin/DSA/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/navvyiin/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/navvyiin/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
@@ -384,6 +385,7 @@ LeetCode and GeeksforGeeks
 | [0413-arithmetic-slices](https://github.com/navvyiin/DSA/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/navvyiin/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/navvyiin/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/navvyiin/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/navvyiin/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Memoization
 |  |
