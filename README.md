@@ -59,6 +59,7 @@ LeetCode and GeeksforGeeks
 | [0415-add-strings](https://github.com/navvyiin/DSA/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/navvyiin/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/navvyiin/DSA/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/navvyiin/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## String
 |  |
@@ -419,6 +420,7 @@ LeetCode and GeeksforGeeks
 | [0388-longest-absolute-file-path](https://github.com/navvyiin/DSA/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/navvyiin/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/navvyiin/DSA/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/navvyiin/DSA/tree/master/0445-add-two-numbers-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -667,6 +669,7 @@ LeetCode and GeeksforGeeks
 | [0382-linked-list-random-node](https://github.com/navvyiin/DSA/tree/master/0382-linked-list-random-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/navvyiin/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/navvyiin/DSA/tree/master/0432-all-oone-data-structure) |
+| [0445-add-two-numbers-ii](https://github.com/navvyiin/DSA/tree/master/0445-add-two-numbers-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
