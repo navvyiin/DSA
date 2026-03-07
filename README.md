@@ -133,6 +133,7 @@ LeetCode and GeeksforGeeks
 | [0434-number-of-segments-in-a-string](https://github.com/navvyiin/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/navvyiin/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/navvyiin/DSA/tree/master/0443-string-compression) |
+| [0449-serialize-and-deserialize-bst](https://github.com/navvyiin/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/navvyiin/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -648,6 +649,7 @@ LeetCode and GeeksforGeeks
 | [0419-battleships-in-a-board](https://github.com/navvyiin/DSA/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/navvyiin/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/navvyiin/DSA/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/navvyiin/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -729,6 +731,7 @@ LeetCode and GeeksforGeeks
 | [0427-construct-quad-tree](https://github.com/navvyiin/DSA/tree/master/0427-construct-quad-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/navvyiin/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/navvyiin/DSA/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/navvyiin/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -771,6 +774,7 @@ LeetCode and GeeksforGeeks
 | [0337-house-robber-iii](https://github.com/navvyiin/DSA/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/navvyiin/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/navvyiin/DSA/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/navvyiin/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -783,6 +787,7 @@ LeetCode and GeeksforGeeks
 | [0173-binary-search-tree-iterator](https://github.com/navvyiin/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/navvyiin/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/navvyiin/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/navvyiin/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -818,6 +823,7 @@ LeetCode and GeeksforGeeks
 | [0417-pacific-atlantic-water-flow](https://github.com/navvyiin/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/navvyiin/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0433-minimum-genetic-mutation](https://github.com/navvyiin/DSA/tree/master/0433-minimum-genetic-mutation) |
+| [0449-serialize-and-deserialize-bst](https://github.com/navvyiin/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -928,6 +934,7 @@ LeetCode and GeeksforGeeks
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/navvyiin/DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/navvyiin/DSA/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/navvyiin/DSA/tree/master/0432-all-oone-data-structure) |
+| [0449-serialize-and-deserialize-bst](https://github.com/navvyiin/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 ## Doubly-Linked List
 |  |
 | ------- |
