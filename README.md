@@ -308,6 +308,7 @@ LeetCode and GeeksforGeeks
 | [0454-4sum-ii](https://github.com/navvyiin/DSA/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/navvyiin/DSA/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/navvyiin/DSA/tree/master/0456-132-pattern) |
+| [0457-circular-array-loop](https://github.com/navvyiin/DSA/tree/master/0457-circular-array-loop) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
@@ -494,6 +495,7 @@ LeetCode and GeeksforGeeks
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/navvyiin/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/navvyiin/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/navvyiin/DSA/tree/master/0454-4sum-ii) |
+| [0457-circular-array-loop](https://github.com/navvyiin/DSA/tree/master/0457-circular-array-loop) |
 ## Matrix
 |  |
 | ------- |
@@ -546,6 +548,7 @@ LeetCode and GeeksforGeeks
 | [0392-is-subsequence](https://github.com/navvyiin/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/navvyiin/DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/navvyiin/DSA/tree/master/0455-assign-cookies) |
+| [0457-circular-array-loop](https://github.com/navvyiin/DSA/tree/master/0457-circular-array-loop) |
 ## Sorting
 |  |
 | ------- |
