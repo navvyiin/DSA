@@ -299,6 +299,7 @@ LeetCode and GeeksforGeeks
 | [0442-find-all-duplicates-in-an-array](https://github.com/navvyiin/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/navvyiin/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/navvyiin/DSA/tree/master/0447-number-of-boomerangs) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/navvyiin/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
@@ -480,6 +481,7 @@ LeetCode and GeeksforGeeks
 | [0438-find-all-anagrams-in-a-string](https://github.com/navvyiin/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/navvyiin/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/navvyiin/DSA/tree/master/0447-number-of-boomerangs) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/navvyiin/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Matrix
 |  |
 | ------- |
