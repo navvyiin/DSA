@@ -295,6 +295,7 @@ LeetCode and GeeksforGeeks
 | [0435-non-overlapping-intervals](https://github.com/navvyiin/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/navvyiin/DSA/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/navvyiin/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
 |  |
@@ -494,6 +495,7 @@ LeetCode and GeeksforGeeks
 | [0417-pacific-atlantic-water-flow](https://github.com/navvyiin/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/navvyiin/DSA/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/navvyiin/DSA/tree/master/0427-construct-quad-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Two Pointers
 |  |
@@ -846,6 +848,7 @@ LeetCode and GeeksforGeeks
 | [0410-split-array-largest-sum](https://github.com/navvyiin/DSA/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/navvyiin/DSA/tree/master/0420-strong-password-checker) |
 | [0435-non-overlapping-intervals](https://github.com/navvyiin/DSA/tree/master/0435-non-overlapping-intervals) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Union-Find
 |  |
