@@ -60,6 +60,7 @@ LeetCode and GeeksforGeeks
 | [0423-reconstruct-original-digits-from-english](https://github.com/navvyiin/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/navvyiin/DSA/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/navvyiin/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0447-number-of-boomerangs](https://github.com/navvyiin/DSA/tree/master/0447-number-of-boomerangs) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## String
 |  |
@@ -297,6 +298,7 @@ LeetCode and GeeksforGeeks
 | [0436-find-right-interval](https://github.com/navvyiin/DSA/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/navvyiin/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/navvyiin/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0447-number-of-boomerangs](https://github.com/navvyiin/DSA/tree/master/0447-number-of-boomerangs) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
@@ -477,6 +479,7 @@ LeetCode and GeeksforGeeks
 | [0433-minimum-genetic-mutation](https://github.com/navvyiin/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/navvyiin/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/navvyiin/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/navvyiin/DSA/tree/master/0447-number-of-boomerangs) |
 ## Matrix
 |  |
 | ------- |
