@@ -356,6 +356,7 @@ LeetCode and GeeksforGeeks
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/navvyiin/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/navvyiin/DSA/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/navvyiin/DSA/tree/master/0500-keyboard-row) |
+| [0502-ipo](https://github.com/navvyiin/DSA/tree/master/0502-ipo) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
@@ -659,6 +660,7 @@ LeetCode and GeeksforGeeks
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/navvyiin/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/navvyiin/DSA/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/navvyiin/DSA/tree/master/0475-heaters) |
+| [0502-ipo](https://github.com/navvyiin/DSA/tree/master/0502-ipo) |
 ## Sliding Window
 |  |
 | ------- |
@@ -979,6 +981,7 @@ LeetCode and GeeksforGeeks
 | [0435-non-overlapping-intervals](https://github.com/navvyiin/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/navvyiin/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/navvyiin/DSA/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/navvyiin/DSA/tree/master/0502-ipo) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Union-Find
@@ -1172,6 +1175,7 @@ LeetCode and GeeksforGeeks
 | [0420-strong-password-checker](https://github.com/navvyiin/DSA/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/navvyiin/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/navvyiin/DSA/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/navvyiin/DSA/tree/master/0502-ipo) |
 ## Quickselect
 |  |
 | ------- |
