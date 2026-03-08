@@ -155,6 +155,7 @@ LeetCode and GeeksforGeeks
 | [0474-ones-and-zeroes](https://github.com/navvyiin/DSA/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/navvyiin/DSA/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/navvyiin/DSA/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/navvyiin/DSA/tree/master/0500-keyboard-row) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/navvyiin/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -354,6 +355,7 @@ LeetCode and GeeksforGeeks
 | [0496-next-greater-element-i](https://github.com/navvyiin/DSA/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/navvyiin/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/navvyiin/DSA/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/navvyiin/DSA/tree/master/0500-keyboard-row) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
@@ -561,6 +563,7 @@ LeetCode and GeeksforGeeks
 | [0480-sliding-window-median](https://github.com/navvyiin/DSA/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/navvyiin/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/navvyiin/DSA/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/navvyiin/DSA/tree/master/0500-keyboard-row) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
 ## Matrix
 |  |
