@@ -340,6 +340,7 @@ LeetCode and GeeksforGeeks
 | [0475-heaters](https://github.com/navvyiin/DSA/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/navvyiin/DSA/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/navvyiin/DSA/tree/master/0480-sliding-window-median) |
+| [0485-max-consecutive-ones](https://github.com/navvyiin/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/navvyiin/DSA/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/navvyiin/DSA/tree/master/0495-teemo-attacking) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
