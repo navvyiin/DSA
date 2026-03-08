@@ -149,6 +149,7 @@ LeetCode and GeeksforGeeks
 | [0468-validate-ip-address](https://github.com/navvyiin/DSA/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/navvyiin/DSA/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/navvyiin/DSA/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/navvyiin/DSA/tree/master/0481-magical-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/navvyiin/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -591,6 +592,7 @@ LeetCode and GeeksforGeeks
 | [0455-assign-cookies](https://github.com/navvyiin/DSA/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/navvyiin/DSA/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/navvyiin/DSA/tree/master/0475-heaters) |
+| [0481-magical-string](https://github.com/navvyiin/DSA/tree/master/0481-magical-string) |
 ## Sorting
 |  |
 | ------- |
