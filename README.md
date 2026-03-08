@@ -366,6 +366,7 @@ LeetCode and GeeksforGeeks
 | [0503-next-greater-element-ii](https://github.com/navvyiin/DSA/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/navvyiin/DSA/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/navvyiin/DSA/tree/master/0517-super-washing-machines) |
+| [0518-coin-change-ii](https://github.com/navvyiin/DSA/tree/master/0518-coin-change-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
@@ -473,6 +474,7 @@ LeetCode and GeeksforGeeks
 | [0509-fibonacci-number](https://github.com/navvyiin/DSA/tree/master/0509-fibonacci-number) |
 | [0514-freedom-trail](https://github.com/navvyiin/DSA/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/navvyiin/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/navvyiin/DSA/tree/master/0518-coin-change-ii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/navvyiin/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Memoization
 |  |
