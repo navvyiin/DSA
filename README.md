@@ -67,6 +67,7 @@ LeetCode and GeeksforGeeks
 | [0464-can-i-win](https://github.com/navvyiin/DSA/tree/master/0464-can-i-win) |
 | [0470-implement-rand10-using-rand7](https://github.com/navvyiin/DSA/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/navvyiin/DSA/tree/master/0477-total-hamming-distance) |
+| [0478-generate-random-point-in-a-circle](https://github.com/navvyiin/DSA/tree/master/0478-generate-random-point-in-a-circle) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## String
 |  |
@@ -1028,6 +1029,7 @@ LeetCode and GeeksforGeeks
 | [0223-rectangle-area](https://github.com/navvyiin/DSA/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/navvyiin/DSA/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/navvyiin/DSA/tree/master/0391-perfect-rectangle) |
+| [0478-generate-random-point-in-a-circle](https://github.com/navvyiin/DSA/tree/master/0478-generate-random-point-in-a-circle) |
 ## Counting
 |  |
 | ------- |
@@ -1207,6 +1209,7 @@ LeetCode and GeeksforGeeks
 | [0384-shuffle-an-array](https://github.com/navvyiin/DSA/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/navvyiin/DSA/tree/master/0398-random-pick-index) |
 | [0470-implement-rand10-using-rand7](https://github.com/navvyiin/DSA/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/navvyiin/DSA/tree/master/0478-generate-random-point-in-a-circle) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -1229,6 +1232,7 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/navvyiin/DSA/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/navvyiin/DSA/tree/master/0478-generate-random-point-in-a-circle) |
 ## Probability and Statistics
 |  |
 | ------- |
