@@ -360,6 +360,7 @@ LeetCode and GeeksforGeeks
 | [0500-keyboard-row](https://github.com/navvyiin/DSA/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/navvyiin/DSA/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/navvyiin/DSA/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/navvyiin/DSA/tree/master/0506-relative-ranks) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
@@ -665,6 +666,7 @@ LeetCode and GeeksforGeeks
 | [0472-concatenated-words](https://github.com/navvyiin/DSA/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/navvyiin/DSA/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/navvyiin/DSA/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/navvyiin/DSA/tree/master/0506-relative-ranks) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1181,6 +1183,7 @@ LeetCode and GeeksforGeeks
 | [0451-sort-characters-by-frequency](https://github.com/navvyiin/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/navvyiin/DSA/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/navvyiin/DSA/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/navvyiin/DSA/tree/master/0506-relative-ranks) |
 ## Quickselect
 |  |
 | ------- |
