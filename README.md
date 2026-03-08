@@ -171,6 +171,7 @@ LeetCode and GeeksforGeeks
 | [0401-binary-watch](https://github.com/navvyiin/DSA/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/navvyiin/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/navvyiin/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0461-hamming-distance](https://github.com/navvyiin/DSA/tree/master/0461-hamming-distance) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
 |  |
