@@ -357,6 +357,7 @@ LeetCode and GeeksforGeeks
 | [0498-diagonal-traverse](https://github.com/navvyiin/DSA/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/navvyiin/DSA/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/navvyiin/DSA/tree/master/0502-ipo) |
+| [0503-next-greater-element-ii](https://github.com/navvyiin/DSA/tree/master/0503-next-greater-element-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
@@ -501,6 +502,7 @@ LeetCode and GeeksforGeeks
 | [0445-add-two-numbers-ii](https://github.com/navvyiin/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/navvyiin/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/navvyiin/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/navvyiin/DSA/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -794,6 +796,7 @@ LeetCode and GeeksforGeeks
 | [0402-remove-k-digits](https://github.com/navvyiin/DSA/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/navvyiin/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/navvyiin/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/navvyiin/DSA/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
 | ------- |
