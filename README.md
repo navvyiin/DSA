@@ -145,6 +145,7 @@ LeetCode and GeeksforGeeks
 | [0467-unique-substrings-in-wraparound-string](https://github.com/navvyiin/DSA/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/navvyiin/DSA/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/navvyiin/DSA/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/navvyiin/DSA/tree/master/0474-ones-and-zeroes) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/navvyiin/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -326,6 +327,7 @@ LeetCode and GeeksforGeeks
 | [0463-island-perimeter](https://github.com/navvyiin/DSA/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/navvyiin/DSA/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/navvyiin/DSA/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/navvyiin/DSA/tree/master/0474-ones-and-zeroes) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
@@ -423,6 +425,7 @@ LeetCode and GeeksforGeeks
 | [0467-unique-substrings-in-wraparound-string](https://github.com/navvyiin/DSA/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/navvyiin/DSA/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/navvyiin/DSA/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/navvyiin/DSA/tree/master/0474-ones-and-zeroes) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/navvyiin/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Memoization
 |  |
