@@ -751,6 +751,7 @@ LeetCode and GeeksforGeeks
 | [0449-serialize-and-deserialize-bst](https://github.com/navvyiin/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/navvyiin/DSA/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/navvyiin/DSA/tree/master/0472-concatenated-words) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/navvyiin/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -837,6 +838,7 @@ LeetCode and GeeksforGeeks
 | [0437-path-sum-iii](https://github.com/navvyiin/DSA/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/navvyiin/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/navvyiin/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/navvyiin/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -881,6 +883,7 @@ LeetCode and GeeksforGeeks
 | [0437-path-sum-iii](https://github.com/navvyiin/DSA/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/navvyiin/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/navvyiin/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/navvyiin/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -895,6 +898,7 @@ LeetCode and GeeksforGeeks
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/navvyiin/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/navvyiin/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/navvyiin/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/navvyiin/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
