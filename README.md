@@ -207,6 +207,7 @@ LeetCode and GeeksforGeeks
 | [0476-number-complement](https://github.com/navvyiin/DSA/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/navvyiin/DSA/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/navvyiin/DSA/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/navvyiin/DSA/tree/master/0526-beautiful-arrangement) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
 |  |
@@ -377,6 +378,7 @@ LeetCode and GeeksforGeeks
 | [0523-continuous-subarray-sum](https://github.com/navvyiin/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/navvyiin/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/navvyiin/DSA/tree/master/0525-contiguous-array) |
+| [0526-beautiful-arrangement](https://github.com/navvyiin/DSA/tree/master/0526-beautiful-arrangement) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
@@ -485,6 +487,7 @@ LeetCode and GeeksforGeeks
 | [0514-freedom-trail](https://github.com/navvyiin/DSA/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/navvyiin/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/navvyiin/DSA/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/navvyiin/DSA/tree/master/0526-beautiful-arrangement) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/navvyiin/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Memoization
 |  |
@@ -737,6 +740,7 @@ LeetCode and GeeksforGeeks
 | [0473-matchsticks-to-square](https://github.com/navvyiin/DSA/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/navvyiin/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/navvyiin/DSA/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/navvyiin/DSA/tree/master/0526-beautiful-arrangement) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
 ## Depth-First Search
 |  |
@@ -1345,6 +1349,7 @@ LeetCode and GeeksforGeeks
 | ------- |
 | [0464-can-i-win](https://github.com/navvyiin/DSA/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/navvyiin/DSA/tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/navvyiin/DSA/tree/master/0526-beautiful-arrangement) |
 ## Rejection Sampling
 |  |
 | ------- |
