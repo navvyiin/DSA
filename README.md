@@ -64,6 +64,7 @@ LeetCode and GeeksforGeeks
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/navvyiin/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/navvyiin/DSA/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/navvyiin/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0464-can-i-win](https://github.com/navvyiin/DSA/tree/master/0464-can-i-win) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## String
 |  |
@@ -173,6 +174,7 @@ LeetCode and GeeksforGeeks
 | [0405-convert-a-number-to-hexadecimal](https://github.com/navvyiin/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/navvyiin/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/navvyiin/DSA/tree/master/0461-hamming-distance) |
+| [0464-can-i-win](https://github.com/navvyiin/DSA/tree/master/0464-can-i-win) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
 |  |
@@ -408,6 +410,7 @@ LeetCode and GeeksforGeeks
 | [0435-non-overlapping-intervals](https://github.com/navvyiin/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/navvyiin/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/navvyiin/DSA/tree/master/0458-poor-pigs) |
+| [0464-can-i-win](https://github.com/navvyiin/DSA/tree/master/0464-can-i-win) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/navvyiin/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Memoization
 |  |
@@ -418,6 +421,7 @@ LeetCode and GeeksforGeeks
 | [0241-different-ways-to-add-parentheses](https://github.com/navvyiin/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/navvyiin/DSA/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/navvyiin/DSA/tree/master/0464-can-i-win) |
 ## Stack
 |  |
 | ------- |
@@ -1157,6 +1161,7 @@ LeetCode and GeeksforGeeks
 | ------- |
 | [0292-nim-game](https://github.com/navvyiin/DSA/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/navvyiin/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0464-can-i-win](https://github.com/navvyiin/DSA/tree/master/0464-can-i-win) |
 ## Data Stream
 |  |
 | ------- |
@@ -1187,4 +1192,8 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/navvyiin/DSA/tree/master/0458-poor-pigs) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/navvyiin/DSA/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
