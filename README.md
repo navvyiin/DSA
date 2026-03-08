@@ -74,6 +74,7 @@ LeetCode and GeeksforGeeks
 | [0492-construct-the-rectangle](https://github.com/navvyiin/DSA/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/navvyiin/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/navvyiin/DSA/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/navvyiin/DSA/tree/master/0507-perfect-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## String
 |  |
