@@ -137,6 +137,7 @@ LeetCode and GeeksforGeeks
 | [0443-string-compression](https://github.com/navvyiin/DSA/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/navvyiin/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/navvyiin/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/navvyiin/DSA/tree/master/0459-repeated-substring-pattern) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/navvyiin/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -1062,6 +1063,7 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/navvyiin/DSA/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/navvyiin/DSA/tree/master/0459-repeated-substring-pattern) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
