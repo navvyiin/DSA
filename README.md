@@ -161,6 +161,7 @@ LeetCode and GeeksforGeeks
 | [0500-keyboard-row](https://github.com/navvyiin/DSA/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/navvyiin/DSA/tree/master/0504-base-7) |
 | [0514-freedom-trail](https://github.com/navvyiin/DSA/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/navvyiin/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/navvyiin/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -470,6 +471,7 @@ LeetCode and GeeksforGeeks
 | [0494-target-sum](https://github.com/navvyiin/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/navvyiin/DSA/tree/master/0509-fibonacci-number) |
 | [0514-freedom-trail](https://github.com/navvyiin/DSA/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/navvyiin/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/navvyiin/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Memoization
 |  |
