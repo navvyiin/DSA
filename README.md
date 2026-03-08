@@ -65,6 +65,7 @@ LeetCode and GeeksforGeeks
 | [0458-poor-pigs](https://github.com/navvyiin/DSA/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/navvyiin/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/navvyiin/DSA/tree/master/0464-can-i-win) |
+| [0470-implement-rand10-using-rand7](https://github.com/navvyiin/DSA/tree/master/0470-implement-rand10-using-rand7) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## String
 |  |
@@ -1184,6 +1185,7 @@ LeetCode and GeeksforGeeks
 | [0382-linked-list-random-node](https://github.com/navvyiin/DSA/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/navvyiin/DSA/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/navvyiin/DSA/tree/master/0398-random-pick-index) |
+| [0470-implement-rand10-using-rand7](https://github.com/navvyiin/DSA/tree/master/0470-implement-rand10-using-rand7) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -1201,4 +1203,12 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/navvyiin/DSA/tree/master/0464-can-i-win) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/navvyiin/DSA/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/navvyiin/DSA/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
