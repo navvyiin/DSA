@@ -150,6 +150,7 @@ LeetCode and GeeksforGeeks
 | [0472-concatenated-words](https://github.com/navvyiin/DSA/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/navvyiin/DSA/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/navvyiin/DSA/tree/master/0481-magical-string) |
+| [0482-license-key-formatting](https://github.com/navvyiin/DSA/tree/master/0482-license-key-formatting) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/navvyiin/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
