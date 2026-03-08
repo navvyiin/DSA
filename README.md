@@ -70,6 +70,7 @@ LeetCode and GeeksforGeeks
 | [0478-generate-random-point-in-a-circle](https://github.com/navvyiin/DSA/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/navvyiin/DSA/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/navvyiin/DSA/tree/master/0483-smallest-good-base) |
+| [0486-predict-the-winner](https://github.com/navvyiin/DSA/tree/master/0486-predict-the-winner) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## String
 |  |
@@ -341,6 +342,7 @@ LeetCode and GeeksforGeeks
 | [0477-total-hamming-distance](https://github.com/navvyiin/DSA/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/navvyiin/DSA/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/navvyiin/DSA/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/navvyiin/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/navvyiin/DSA/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/navvyiin/DSA/tree/master/0495-teemo-attacking) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -443,6 +445,7 @@ LeetCode and GeeksforGeeks
 | [0472-concatenated-words](https://github.com/navvyiin/DSA/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/navvyiin/DSA/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/navvyiin/DSA/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/navvyiin/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/navvyiin/DSA/tree/master/0494-target-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/navvyiin/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Memoization
@@ -999,6 +1002,7 @@ LeetCode and GeeksforGeeks
 | [0326-power-of-three](https://github.com/navvyiin/DSA/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/navvyiin/DSA/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/navvyiin/DSA/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/navvyiin/DSA/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Design
 |  |
@@ -1208,6 +1212,7 @@ LeetCode and GeeksforGeeks
 | [0292-nim-game](https://github.com/navvyiin/DSA/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/navvyiin/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/navvyiin/DSA/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/navvyiin/DSA/tree/master/0486-predict-the-winner) |
 ## Data Stream
 |  |
 | ------- |
