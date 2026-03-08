@@ -69,6 +69,7 @@ LeetCode and GeeksforGeeks
 | [0477-total-hamming-distance](https://github.com/navvyiin/DSA/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/navvyiin/DSA/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/navvyiin/DSA/tree/master/0479-largest-palindrome-product) |
+| [0483-smallest-good-base](https://github.com/navvyiin/DSA/tree/master/0483-smallest-good-base) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## String
 |  |
@@ -374,6 +375,7 @@ LeetCode and GeeksforGeeks
 | [0441-arranging-coins](https://github.com/navvyiin/DSA/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/navvyiin/DSA/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/navvyiin/DSA/tree/master/0475-heaters) |
+| [0483-smallest-good-base](https://github.com/navvyiin/DSA/tree/master/0483-smallest-good-base) |
 ## Dynamic Programming
 |  |
 | ------- |
