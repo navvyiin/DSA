@@ -815,6 +815,7 @@ LeetCode and GeeksforGeeks
 | [0515-find-largest-value-in-each-tree-row](https://github.com/navvyiin/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/navvyiin/DSA/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/navvyiin/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/navvyiin/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -907,6 +908,7 @@ LeetCode and GeeksforGeeks
 | [0513-find-bottom-left-tree-value](https://github.com/navvyiin/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/navvyiin/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/navvyiin/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/navvyiin/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -956,6 +958,7 @@ LeetCode and GeeksforGeeks
 | [0513-find-bottom-left-tree-value](https://github.com/navvyiin/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/navvyiin/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/navvyiin/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/navvyiin/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -972,6 +975,7 @@ LeetCode and GeeksforGeeks
 | [0450-delete-node-in-a-bst](https://github.com/navvyiin/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/navvyiin/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/navvyiin/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/navvyiin/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
