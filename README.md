@@ -381,6 +381,7 @@ LeetCode and GeeksforGeeks
 | [0525-contiguous-array](https://github.com/navvyiin/DSA/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/navvyiin/DSA/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/navvyiin/DSA/tree/master/0528-random-pick-with-weight) |
+| [0529-minesweeper](https://github.com/navvyiin/DSA/tree/master/0529-minesweeper) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
@@ -627,6 +628,7 @@ LeetCode and GeeksforGeeks
 | [0427-construct-quad-tree](https://github.com/navvyiin/DSA/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/navvyiin/DSA/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/navvyiin/DSA/tree/master/0498-diagonal-traverse) |
+| [0529-minesweeper](https://github.com/navvyiin/DSA/tree/master/0529-minesweeper) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Two Pointers
@@ -801,6 +803,7 @@ LeetCode and GeeksforGeeks
 | [0513-find-bottom-left-tree-value](https://github.com/navvyiin/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/navvyiin/DSA/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/navvyiin/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/navvyiin/DSA/tree/master/0529-minesweeper) |
 ## Linked List
 |  |
 | ------- |
@@ -995,6 +998,7 @@ LeetCode and GeeksforGeeks
 | [0513-find-bottom-left-tree-value](https://github.com/navvyiin/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/navvyiin/DSA/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/navvyiin/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/navvyiin/DSA/tree/master/0529-minesweeper) |
 ## Divide and Conquer
 |  |
 | ------- |
