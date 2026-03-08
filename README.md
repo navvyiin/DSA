@@ -180,6 +180,7 @@ LeetCode and GeeksforGeeks
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/navvyiin/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/navvyiin/DSA/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/navvyiin/DSA/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/navvyiin/DSA/tree/master/0473-matchsticks-to-square) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
 |  |
@@ -324,6 +325,7 @@ LeetCode and GeeksforGeeks
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/navvyiin/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/navvyiin/DSA/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/navvyiin/DSA/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/navvyiin/DSA/tree/master/0473-matchsticks-to-square) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
@@ -420,6 +422,7 @@ LeetCode and GeeksforGeeks
 | [0466-count-the-repetitions](https://github.com/navvyiin/DSA/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/navvyiin/DSA/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/navvyiin/DSA/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/navvyiin/DSA/tree/master/0473-matchsticks-to-square) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/navvyiin/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Memoization
 |  |
@@ -646,6 +649,7 @@ LeetCode and GeeksforGeeks
 | [0306-additive-number](https://github.com/navvyiin/DSA/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/navvyiin/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/navvyiin/DSA/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/navvyiin/DSA/tree/master/0473-matchsticks-to-square) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
 ## Depth-First Search
 |  |
@@ -1209,6 +1213,7 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/navvyiin/DSA/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/navvyiin/DSA/tree/master/0473-matchsticks-to-square) |
 ## Rejection Sampling
 |  |
 | ------- |
