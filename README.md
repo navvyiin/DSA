@@ -142,6 +142,7 @@ LeetCode and GeeksforGeeks
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/navvyiin/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/navvyiin/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/navvyiin/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -312,6 +313,7 @@ LeetCode and GeeksforGeeks
 | [0457-circular-array-loop](https://github.com/navvyiin/DSA/tree/master/0457-circular-array-loop) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -498,6 +500,7 @@ LeetCode and GeeksforGeeks
 | [0451-sort-characters-by-frequency](https://github.com/navvyiin/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/navvyiin/DSA/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/navvyiin/DSA/tree/master/0457-circular-array-loop) |
+| [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
 ## Matrix
 |  |
 | ------- |
@@ -621,6 +624,7 @@ LeetCode and GeeksforGeeks
 | [0306-additive-number](https://github.com/navvyiin/DSA/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/navvyiin/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/navvyiin/DSA/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
 ## Depth-First Search
 |  |
 | ------- |
