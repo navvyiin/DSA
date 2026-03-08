@@ -376,6 +376,7 @@ LeetCode and GeeksforGeeks
 | [0522-longest-uncommon-subsequence-ii](https://github.com/navvyiin/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/navvyiin/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/navvyiin/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/navvyiin/DSA/tree/master/0525-contiguous-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
@@ -594,6 +595,7 @@ LeetCode and GeeksforGeeks
 | [0519-random-flip-matrix](https://github.com/navvyiin/DSA/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/navvyiin/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/navvyiin/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/navvyiin/DSA/tree/master/0525-contiguous-array) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
 ## Matrix
 |  |
@@ -1206,6 +1208,7 @@ LeetCode and GeeksforGeeks
 | [0410-split-array-largest-sum](https://github.com/navvyiin/DSA/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/navvyiin/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/navvyiin/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/navvyiin/DSA/tree/master/0525-contiguous-array) |
 ## String Matching
 |  |
 | ------- |
