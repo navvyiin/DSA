@@ -205,6 +205,7 @@ LeetCode and GeeksforGeeks
 | [0412-fizz-buzz](https://github.com/navvyiin/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/navvyiin/DSA/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/navvyiin/DSA/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/navvyiin/DSA/tree/master/0498-diagonal-traverse) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Array
@@ -352,6 +353,7 @@ LeetCode and GeeksforGeeks
 | [0495-teemo-attacking](https://github.com/navvyiin/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/navvyiin/DSA/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/navvyiin/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0498-diagonal-traverse](https://github.com/navvyiin/DSA/tree/master/0498-diagonal-traverse) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
@@ -583,6 +585,7 @@ LeetCode and GeeksforGeeks
 | [0419-battleships-in-a-board](https://github.com/navvyiin/DSA/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/navvyiin/DSA/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/navvyiin/DSA/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/navvyiin/DSA/tree/master/0498-diagonal-traverse) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Two Pointers
