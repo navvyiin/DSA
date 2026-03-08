@@ -346,6 +346,7 @@ LeetCode and GeeksforGeeks
 | [0485-max-consecutive-ones](https://github.com/navvyiin/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/navvyiin/DSA/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/navvyiin/DSA/tree/master/0491-non-decreasing-subsequences) |
+| [0493-reverse-pairs](https://github.com/navvyiin/DSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/navvyiin/DSA/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/navvyiin/DSA/tree/master/0495-teemo-attacking) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -385,6 +386,7 @@ LeetCode and GeeksforGeeks
 | [0456-132-pattern](https://github.com/navvyiin/DSA/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/navvyiin/DSA/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/navvyiin/DSA/tree/master/0483-smallest-good-base) |
+| [0493-reverse-pairs](https://github.com/navvyiin/DSA/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -938,6 +940,7 @@ LeetCode and GeeksforGeeks
 | [0372-super-pow](https://github.com/navvyiin/DSA/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/navvyiin/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/navvyiin/DSA/tree/master/0427-construct-quad-tree) |
+| [0493-reverse-pairs](https://github.com/navvyiin/DSA/tree/master/0493-reverse-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -1046,6 +1049,7 @@ LeetCode and GeeksforGeeks
 | [0148-sort-list](https://github.com/navvyiin/DSA/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/navvyiin/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/navvyiin/DSA/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/navvyiin/DSA/tree/master/0493-reverse-pairs) |
 ## Geometry
 |  |
 | ------- |
@@ -1163,6 +1167,7 @@ LeetCode and GeeksforGeeks
 | [0315-count-of-smaller-numbers-after-self](https://github.com/navvyiin/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/navvyiin/DSA/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/navvyiin/DSA/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/navvyiin/DSA/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1171,6 +1176,7 @@ LeetCode and GeeksforGeeks
 | [0315-count-of-smaller-numbers-after-self](https://github.com/navvyiin/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/navvyiin/DSA/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/navvyiin/DSA/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/navvyiin/DSA/tree/master/0493-reverse-pairs) |
 ## Sweep Line
 |  |
 | ------- |
@@ -1186,6 +1192,7 @@ LeetCode and GeeksforGeeks
 | [0352-data-stream-as-disjoint-intervals](https://github.com/navvyiin/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/navvyiin/DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/navvyiin/DSA/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/navvyiin/DSA/tree/master/0493-reverse-pairs) |
 ## Queue
 |  |
 | ------- |
