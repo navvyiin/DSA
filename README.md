@@ -365,6 +365,7 @@ LeetCode and GeeksforGeeks
 | [0502-ipo](https://github.com/navvyiin/DSA/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/navvyiin/DSA/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/navvyiin/DSA/tree/master/0506-relative-ranks) |
+| [0517-super-washing-machines](https://github.com/navvyiin/DSA/tree/master/0517-super-washing-machines) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
@@ -1011,6 +1012,7 @@ LeetCode and GeeksforGeeks
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/navvyiin/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/navvyiin/DSA/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/navvyiin/DSA/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/navvyiin/DSA/tree/master/0517-super-washing-machines) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Union-Find
