@@ -73,6 +73,7 @@ LeetCode and GeeksforGeeks
 | [0486-predict-the-winner](https://github.com/navvyiin/DSA/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/navvyiin/DSA/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/navvyiin/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0504-base-7](https://github.com/navvyiin/DSA/tree/master/0504-base-7) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## String
 |  |
@@ -156,6 +157,7 @@ LeetCode and GeeksforGeeks
 | [0481-magical-string](https://github.com/navvyiin/DSA/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/navvyiin/DSA/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/navvyiin/DSA/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/navvyiin/DSA/tree/master/0504-base-7) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/navvyiin/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
