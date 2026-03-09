@@ -501,6 +501,7 @@ LeetCode and GeeksforGeeks
 | [0518-coin-change-ii](https://github.com/navvyiin/DSA/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/navvyiin/DSA/tree/master/0526-beautiful-arrangement) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/navvyiin/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/navvyiin/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Memoization
 |  |
 | ------- |
@@ -1247,6 +1248,7 @@ LeetCode and GeeksforGeeks
 | [0523-continuous-subarray-sum](https://github.com/navvyiin/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/navvyiin/DSA/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/navvyiin/DSA/tree/master/0528-random-pick-with-weight) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/navvyiin/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## String Matching
 |  |
 | ------- |
