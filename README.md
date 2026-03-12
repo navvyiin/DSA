@@ -430,6 +430,7 @@ LeetCode and GeeksforGeeks
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/navvyiin/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/navvyiin/DSA/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/navvyiin/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/navvyiin/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1073,6 +1074,7 @@ LeetCode and GeeksforGeeks
 | [0517-super-washing-machines](https://github.com/navvyiin/DSA/tree/master/0517-super-washing-machines) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/navvyiin/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
 | ------- |
@@ -1081,6 +1083,7 @@ LeetCode and GeeksforGeeks
 | [0200-number-of-islands](https://github.com/navvyiin/DSA/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/navvyiin/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/navvyiin/DSA/tree/master/0399-evaluate-division) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/navvyiin/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1091,6 +1094,7 @@ LeetCode and GeeksforGeeks
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/navvyiin/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/navvyiin/DSA/tree/master/0399-evaluate-division) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/navvyiin/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Trie
 |  |
 | ------- |
@@ -1399,4 +1403,8 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/navvyiin/DSA/tree/master/0470-implement-rand10-using-rand7) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/navvyiin/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
