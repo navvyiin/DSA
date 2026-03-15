@@ -80,6 +80,7 @@ LeetCode and GeeksforGeeks
 | [0523-continuous-subarray-sum](https://github.com/navvyiin/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/navvyiin/DSA/tree/master/0528-random-pick-with-weight) |
 | [0537-complex-number-multiplication](https://github.com/navvyiin/DSA/tree/master/0537-complex-number-multiplication) |
+| [1622-fancy-sequence](https://github.com/navvyiin/DSA/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/navvyiin/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## String
@@ -1155,6 +1156,7 @@ LeetCode and GeeksforGeeks
 | [0449-serialize-and-deserialize-bst](https://github.com/navvyiin/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/navvyiin/DSA/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/navvyiin/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+| [1622-fancy-sequence](https://github.com/navvyiin/DSA/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1307,6 +1309,7 @@ LeetCode and GeeksforGeeks
 | [0327-count-of-range-sum](https://github.com/navvyiin/DSA/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/navvyiin/DSA/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/navvyiin/DSA/tree/master/0493-reverse-pairs) |
+| [1622-fancy-sequence](https://github.com/navvyiin/DSA/tree/master/1622-fancy-sequence) |
 ## Sweep Line
 |  |
 | ------- |
