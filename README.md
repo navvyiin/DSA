@@ -396,6 +396,7 @@ LeetCode and GeeksforGeeks
 | [0529-minesweeper](https://github.com/navvyiin/DSA/tree/master/0529-minesweeper) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/navvyiin/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/navvyiin/DSA/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/navvyiin/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/navvyiin/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -441,6 +442,7 @@ LeetCode and GeeksforGeeks
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/navvyiin/DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/navvyiin/DSA/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/navvyiin/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/navvyiin/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/navvyiin/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/navvyiin/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Dynamic Programming
