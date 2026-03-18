@@ -863,6 +863,7 @@ LeetCode and GeeksforGeeks
 | [0538-convert-bst-to-greater-tree](https://github.com/navvyiin/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/navvyiin/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/navvyiin/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0563-binary-tree-tilt](https://github.com/navvyiin/DSA/tree/master/0563-binary-tree-tilt) |
 ## Linked List
 |  |
 | ------- |
@@ -959,6 +960,7 @@ LeetCode and GeeksforGeeks
 | [0543-diameter-of-binary-tree](https://github.com/navvyiin/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/navvyiin/DSA/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/navvyiin/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0563-binary-tree-tilt](https://github.com/navvyiin/DSA/tree/master/0563-binary-tree-tilt) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1010,6 +1012,7 @@ LeetCode and GeeksforGeeks
 | [0530-minimum-absolute-difference-in-bst](https://github.com/navvyiin/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/navvyiin/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/navvyiin/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/navvyiin/DSA/tree/master/0563-binary-tree-tilt) |
 ## Binary Search Tree
 |  |
 | ------- |
