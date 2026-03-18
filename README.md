@@ -402,6 +402,7 @@ LeetCode and GeeksforGeeks
 | [0540-single-element-in-a-sorted-array](https://github.com/navvyiin/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/navvyiin/DSA/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/navvyiin/DSA/tree/master/0553-optimal-division) |
+| [0554-brick-wall](https://github.com/navvyiin/DSA/tree/master/0554-brick-wall) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/navvyiin/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -641,6 +642,7 @@ LeetCode and GeeksforGeeks
 | [0525-contiguous-array](https://github.com/navvyiin/DSA/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/navvyiin/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/navvyiin/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+| [0554-brick-wall](https://github.com/navvyiin/DSA/tree/master/0554-brick-wall) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
 ## Matrix
 |  |
