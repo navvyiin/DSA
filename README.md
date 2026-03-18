@@ -404,6 +404,7 @@ LeetCode and GeeksforGeeks
 | [0553-optimal-division](https://github.com/navvyiin/DSA/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/navvyiin/DSA/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/navvyiin/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/navvyiin/DSA/tree/master/0561-array-partition) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/navvyiin/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -755,6 +756,7 @@ LeetCode and GeeksforGeeks
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/navvyiin/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/navvyiin/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/navvyiin/DSA/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/navvyiin/DSA/tree/master/0561-array-partition) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/navvyiin/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/navvyiin/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Sliding Window
@@ -1116,6 +1118,7 @@ LeetCode and GeeksforGeeks
 | [0455-assign-cookies](https://github.com/navvyiin/DSA/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/navvyiin/DSA/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/navvyiin/DSA/tree/master/0517-super-washing-machines) |
+| [0561-array-partition](https://github.com/navvyiin/DSA/tree/master/0561-array-partition) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/navvyiin/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1388,6 +1391,7 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0274-h-index](https://github.com/navvyiin/DSA/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/navvyiin/DSA/tree/master/0561-array-partition) |
 ## Interactive
 |  |
 | ------- |
