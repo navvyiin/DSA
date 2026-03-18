@@ -850,6 +850,7 @@ LeetCode and GeeksforGeeks
 | [0529-minesweeper](https://github.com/navvyiin/DSA/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/navvyiin/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/navvyiin/DSA/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/navvyiin/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -943,6 +944,7 @@ LeetCode and GeeksforGeeks
 | [0515-find-largest-value-in-each-tree-row](https://github.com/navvyiin/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/navvyiin/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/navvyiin/DSA/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/navvyiin/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -993,6 +995,7 @@ LeetCode and GeeksforGeeks
 | [0515-find-largest-value-in-each-tree-row](https://github.com/navvyiin/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/navvyiin/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/navvyiin/DSA/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/navvyiin/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
