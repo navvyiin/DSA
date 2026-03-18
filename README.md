@@ -403,6 +403,7 @@ LeetCode and GeeksforGeeks
 | [0542-01-matrix](https://github.com/navvyiin/DSA/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/navvyiin/DSA/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/navvyiin/DSA/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/navvyiin/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/navvyiin/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -643,6 +644,7 @@ LeetCode and GeeksforGeeks
 | [0532-k-diff-pairs-in-an-array](https://github.com/navvyiin/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/navvyiin/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/navvyiin/DSA/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/navvyiin/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
 ## Matrix
 |  |
@@ -1300,6 +1302,7 @@ LeetCode and GeeksforGeeks
 | [0523-continuous-subarray-sum](https://github.com/navvyiin/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/navvyiin/DSA/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/navvyiin/DSA/tree/master/0528-random-pick-with-weight) |
+| [0560-subarray-sum-equals-k](https://github.com/navvyiin/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/navvyiin/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/navvyiin/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/navvyiin/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
