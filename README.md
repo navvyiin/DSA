@@ -238,6 +238,7 @@ LeetCode and GeeksforGeeks
 | [0495-teemo-attacking](https://github.com/navvyiin/DSA/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/navvyiin/DSA/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/navvyiin/DSA/tree/master/0537-complex-number-multiplication) |
+| [0566-reshape-the-matrix](https://github.com/navvyiin/DSA/tree/master/0566-reshape-the-matrix) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Array
@@ -408,6 +409,7 @@ LeetCode and GeeksforGeeks
 | [0560-subarray-sum-equals-k](https://github.com/navvyiin/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/navvyiin/DSA/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/navvyiin/DSA/tree/master/0565-array-nesting) |
+| [0566-reshape-the-matrix](https://github.com/navvyiin/DSA/tree/master/0566-reshape-the-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/navvyiin/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -680,6 +682,7 @@ LeetCode and GeeksforGeeks
 | [0498-diagonal-traverse](https://github.com/navvyiin/DSA/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/navvyiin/DSA/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/navvyiin/DSA/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/navvyiin/DSA/tree/master/0566-reshape-the-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/navvyiin/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
