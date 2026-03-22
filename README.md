@@ -885,6 +885,7 @@ LeetCode and GeeksforGeeks
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/navvyiin/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/navvyiin/DSA/tree/master/0563-binary-tree-tilt) |
 | [0565-array-nesting](https://github.com/navvyiin/DSA/tree/master/0565-array-nesting) |
+| [0572-subtree-of-another-tree](https://github.com/navvyiin/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -982,6 +983,7 @@ LeetCode and GeeksforGeeks
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/navvyiin/DSA/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/navvyiin/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/navvyiin/DSA/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/navvyiin/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1034,6 +1036,7 @@ LeetCode and GeeksforGeeks
 | [0538-convert-bst-to-greater-tree](https://github.com/navvyiin/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/navvyiin/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/navvyiin/DSA/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/navvyiin/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1300,6 +1303,7 @@ LeetCode and GeeksforGeeks
 | [0187-repeated-dna-sequences](https://github.com/navvyiin/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/navvyiin/DSA/tree/master/0214-shortest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/navvyiin/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+| [0572-subtree-of-another-tree](https://github.com/navvyiin/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -1341,6 +1345,7 @@ LeetCode and GeeksforGeeks
 | ------- |
 | [0214-shortest-palindrome](https://github.com/navvyiin/DSA/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/navvyiin/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/navvyiin/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
