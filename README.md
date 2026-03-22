@@ -183,6 +183,7 @@ LeetCode and GeeksforGeeks
 | [0541-reverse-string-ii](https://github.com/navvyiin/DSA/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/navvyiin/DSA/tree/master/0551-student-attendance-record-i) |
 | [0564-find-the-closest-palindrome](https://github.com/navvyiin/DSA/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/navvyiin/DSA/tree/master/0567-permutation-in-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/navvyiin/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -655,6 +656,7 @@ LeetCode and GeeksforGeeks
 | [0535-encode-and-decode-tinyurl](https://github.com/navvyiin/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/navvyiin/DSA/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/navvyiin/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/navvyiin/DSA/tree/master/0567-permutation-in-string) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
 ## Matrix
 |  |
@@ -727,6 +729,7 @@ LeetCode and GeeksforGeeks
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/navvyiin/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/navvyiin/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/navvyiin/DSA/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/navvyiin/DSA/tree/master/0567-permutation-in-string) |
 | [3643-flip-square-submatrix-vertically](https://github.com/navvyiin/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -789,6 +792,7 @@ LeetCode and GeeksforGeeks
 | [0424-longest-repeating-character-replacement](https://github.com/navvyiin/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/navvyiin/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/navvyiin/DSA/tree/master/0480-sliding-window-median) |
+| [0567-permutation-in-string](https://github.com/navvyiin/DSA/tree/master/0567-permutation-in-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/navvyiin/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
