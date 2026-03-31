@@ -195,6 +195,7 @@ LeetCode and GeeksforGeeks
 | [2573-find-the-string-with-lcp](https://github.com/navvyiin/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/navvyiin/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/navvyiin/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/navvyiin/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1176,6 +1177,7 @@ LeetCode and GeeksforGeeks
 | [1727-largest-submatrix-with-rearrangements](https://github.com/navvyiin/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/navvyiin/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/navvyiin/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/navvyiin/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/navvyiin/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
@@ -1378,6 +1380,7 @@ LeetCode and GeeksforGeeks
 | [0214-shortest-palindrome](https://github.com/navvyiin/DSA/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/navvyiin/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/navvyiin/DSA/tree/master/0572-subtree-of-another-tree) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/navvyiin/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
