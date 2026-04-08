@@ -255,6 +255,7 @@ LeetCode and GeeksforGeeks
 | [2075-decode-the-slanted-ciphertext](https://github.com/navvyiin/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/navvyiin/DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/navvyiin/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/navvyiin/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Array
 |  |
 | ------- |
@@ -445,6 +446,7 @@ LeetCode and GeeksforGeeks
 | [3548-equal-sum-grid-partition-ii](https://github.com/navvyiin/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/navvyiin/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/navvyiin/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/navvyiin/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/navvyiin/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Binary Search
 |  |
@@ -1167,6 +1169,7 @@ LeetCode and GeeksforGeeks
 | [0427-construct-quad-tree](https://github.com/navvyiin/DSA/tree/master/0427-construct-quad-tree) |
 | [0493-reverse-pairs](https://github.com/navvyiin/DSA/tree/master/0493-reverse-pairs) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/navvyiin/DSA/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/navvyiin/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Greedy
 |  |
 | ------- |
