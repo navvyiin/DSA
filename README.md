@@ -447,6 +447,7 @@ LeetCode and GeeksforGeeks
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/navvyiin/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/navvyiin/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/navvyiin/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/navvyiin/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/navvyiin/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Binary Search
 |  |
@@ -1170,6 +1171,7 @@ LeetCode and GeeksforGeeks
 | [0493-reverse-pairs](https://github.com/navvyiin/DSA/tree/master/0493-reverse-pairs) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/navvyiin/DSA/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/navvyiin/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/navvyiin/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Greedy
 |  |
 | ------- |
