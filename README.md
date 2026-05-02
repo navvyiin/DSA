@@ -83,6 +83,7 @@ LeetCode and GeeksforGeeks
 | [0539-minimum-time-difference](https://github.com/navvyiin/DSA/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/navvyiin/DSA/tree/master/0553-optimal-division) |
 | [0564-find-the-closest-palindrome](https://github.com/navvyiin/DSA/tree/master/0564-find-the-closest-palindrome) |
+| [0788-rotated-digits](https://github.com/navvyiin/DSA/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/navvyiin/DSA/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/navvyiin/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -574,6 +575,7 @@ LeetCode and GeeksforGeeks
 | [0552-student-attendance-record-ii](https://github.com/navvyiin/DSA/tree/master/0552-student-attendance-record-ii) |
 | [0553-optimal-division](https://github.com/navvyiin/DSA/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/navvyiin/DSA/tree/master/0576-out-of-boundary-paths) |
+| [0788-rotated-digits](https://github.com/navvyiin/DSA/tree/master/0788-rotated-digits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/navvyiin/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/navvyiin/DSA/tree/master/2573-find-the-string-with-lcp) |
