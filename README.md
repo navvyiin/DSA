@@ -187,6 +187,7 @@ LeetCode and GeeksforGeeks
 | [0564-find-the-closest-palindrome](https://github.com/navvyiin/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/navvyiin/DSA/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/navvyiin/DSA/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/navvyiin/DSA/tree/master/0796-rotate-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/navvyiin/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -1419,6 +1420,7 @@ LeetCode and GeeksforGeeks
 | [0214-shortest-palindrome](https://github.com/navvyiin/DSA/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/navvyiin/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/navvyiin/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/navvyiin/DSA/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/navvyiin/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Heap (Priority Queue)
 |  |
