@@ -6,6 +6,7 @@ LeetCode and GeeksforGeeks
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/navvyiin/DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/navvyiin/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/navvyiin/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/navvyiin/DSA/tree/master/0070-climbing-stairs) |
@@ -263,6 +264,7 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/navvyiin/DSA/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/navvyiin/DSA/tree/master/0048-rotate-image) |
 | [0068-text-justification](https://github.com/navvyiin/DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/navvyiin/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/navvyiin/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -713,6 +715,7 @@ LeetCode and GeeksforGeeks
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/navvyiin/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/navvyiin/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/navvyiin/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/navvyiin/DSA/tree/master/0079-word-search) |
