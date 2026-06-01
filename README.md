@@ -444,6 +444,7 @@ LeetCode and GeeksforGeeks
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/navvyiin/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/navvyiin/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/navvyiin/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/navvyiin/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/navvyiin/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/navvyiin/DSA/tree/master/2751-robot-collisions) |
@@ -852,6 +853,7 @@ LeetCode and GeeksforGeeks
 | [0561-array-partition](https://github.com/navvyiin/DSA/tree/master/0561-array-partition) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/navvyiin/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/navvyiin/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/navvyiin/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2751-robot-collisions](https://github.com/navvyiin/DSA/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/navvyiin/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/navvyiin/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -1231,6 +1233,7 @@ LeetCode and GeeksforGeeks
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/navvyiin/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/navvyiin/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/navvyiin/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/navvyiin/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/navvyiin/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
