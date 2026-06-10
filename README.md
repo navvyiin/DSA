@@ -468,6 +468,7 @@ LeetCode and GeeksforGeeks
 | [3660-jump-game-ix](https://github.com/navvyiin/DSA/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/navvyiin/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/navvyiin/DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/navvyiin/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/navvyiin/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/navvyiin/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Binary Search
@@ -1252,6 +1253,7 @@ LeetCode and GeeksforGeeks
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/navvyiin/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/navvyiin/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/navvyiin/DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/navvyiin/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -1478,6 +1480,7 @@ LeetCode and GeeksforGeeks
 | [0506-relative-ranks](https://github.com/navvyiin/DSA/tree/master/0506-relative-ranks) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/navvyiin/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/navvyiin/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/navvyiin/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -1502,6 +1505,7 @@ LeetCode and GeeksforGeeks
 | [0406-queue-reconstruction-by-height](https://github.com/navvyiin/DSA/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/navvyiin/DSA/tree/master/0493-reverse-pairs) |
 | [1622-fancy-sequence](https://github.com/navvyiin/DSA/tree/master/1622-fancy-sequence) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/navvyiin/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sweep Line
 |  |
 | ------- |
