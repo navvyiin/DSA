@@ -452,6 +452,7 @@ LeetCode and GeeksforGeeks
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/navvyiin/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/navvyiin/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/navvyiin/DSA/tree/master/2751-robot-collisions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/navvyiin/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/navvyiin/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/navvyiin/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/navvyiin/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -514,6 +515,7 @@ LeetCode and GeeksforGeeks
 | [0532-k-diff-pairs-in-an-array](https://github.com/navvyiin/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/navvyiin/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/navvyiin/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/navvyiin/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/navvyiin/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/navvyiin/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/navvyiin/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -769,6 +771,7 @@ LeetCode and GeeksforGeeks
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/navvyiin/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/navvyiin/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/navvyiin/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/navvyiin/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/navvyiin/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/navvyiin/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/navvyiin/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -1195,6 +1198,7 @@ LeetCode and GeeksforGeeks
 | [0530-minimum-absolute-difference-in-bst](https://github.com/navvyiin/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/navvyiin/DSA/tree/master/0542-01-matrix) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/navvyiin/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/navvyiin/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/navvyiin/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Divide and Conquer
 |  |
@@ -1266,6 +1270,7 @@ LeetCode and GeeksforGeeks
 | [0352-data-stream-as-disjoint-intervals](https://github.com/navvyiin/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/navvyiin/DSA/tree/master/0399-evaluate-division) |
 | [2573-find-the-string-with-lcp](https://github.com/navvyiin/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/navvyiin/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/navvyiin/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
@@ -1483,6 +1488,7 @@ LeetCode and GeeksforGeeks
 | [0502-ipo](https://github.com/navvyiin/DSA/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/navvyiin/DSA/tree/master/0506-relative-ranks) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/navvyiin/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/navvyiin/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/navvyiin/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/navvyiin/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Quickselect
