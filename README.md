@@ -90,6 +90,7 @@ LeetCode and GeeksforGeeks
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/navvyiin/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/navvyiin/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/navvyiin/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/navvyiin/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/navvyiin/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/navvyiin/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/navvyiin/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -470,6 +471,7 @@ LeetCode and GeeksforGeeks
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/navvyiin/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/navvyiin/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/navvyiin/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/navvyiin/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/navvyiin/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/navvyiin/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3488-closest-equal-element-queries](https://github.com/navvyiin/DSA/tree/master/3488-closest-equal-element-queries) |
@@ -534,6 +536,7 @@ LeetCode and GeeksforGeeks
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/navvyiin/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/navvyiin/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/navvyiin/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/navvyiin/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/navvyiin/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/navvyiin/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/navvyiin/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -754,6 +757,7 @@ LeetCode and GeeksforGeeks
 | [1331-rank-transform-of-an-array](https://github.com/navvyiin/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/navvyiin/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/navvyiin/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/navvyiin/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/navvyiin/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/navvyiin/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -1421,6 +1425,7 @@ LeetCode and GeeksforGeeks
 | [0383-ransom-note](https://github.com/navvyiin/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/navvyiin/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/navvyiin/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/navvyiin/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Iterator
 |  |
 | ------- |
@@ -1480,6 +1485,7 @@ LeetCode and GeeksforGeeks
 | ------- |
 | [0204-count-primes](https://github.com/navvyiin/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/navvyiin/DSA/tree/master/0258-add-digits) |
+| [3312-sorted-gcd-pair-queries](https://github.com/navvyiin/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/navvyiin/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/navvyiin/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/navvyiin/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -1513,6 +1519,7 @@ LeetCode and GeeksforGeeks
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/navvyiin/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/navvyiin/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/navvyiin/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3312-sorted-gcd-pair-queries](https://github.com/navvyiin/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/navvyiin/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/navvyiin/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/navvyiin/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -1662,6 +1669,7 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/navvyiin/DSA/tree/master/0458-poor-pigs) |
+| [3312-sorted-gcd-pair-queries](https://github.com/navvyiin/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bitmask
 |  |
 | ------- |
