@@ -88,6 +88,7 @@ LeetCode and GeeksforGeeks
 | [1622-fancy-sequence](https://github.com/navvyiin/DSA/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/navvyiin/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/navvyiin/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/navvyiin/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/navvyiin/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/navvyiin/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -459,6 +460,7 @@ LeetCode and GeeksforGeeks
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/navvyiin/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/navvyiin/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/navvyiin/DSA/tree/master/1914-cyclically-rotating-a-grid) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/navvyiin/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/navvyiin/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/navvyiin/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -1485,6 +1487,7 @@ LeetCode and GeeksforGeeks
 | ------- |
 | [0204-count-primes](https://github.com/navvyiin/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/navvyiin/DSA/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/navvyiin/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/navvyiin/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/navvyiin/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/navvyiin/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
