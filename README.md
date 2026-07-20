@@ -266,6 +266,7 @@ LeetCode and GeeksforGeeks
 | [0566-reshape-the-matrix](https://github.com/navvyiin/DSA/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/navvyiin/DSA/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/navvyiin/DSA/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/navvyiin/DSA/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/navvyiin/DSA/tree/master/1914-cyclically-rotating-a-grid) |
@@ -448,6 +449,7 @@ LeetCode and GeeksforGeeks
 | [0566-reshape-the-matrix](https://github.com/navvyiin/DSA/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/navvyiin/DSA/tree/master/0575-distribute-candies) |
 | [0874-walking-robot-simulation](https://github.com/navvyiin/DSA/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/navvyiin/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/navvyiin/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/navvyiin/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/navvyiin/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -796,6 +798,7 @@ LeetCode and GeeksforGeeks
 | [0529-minesweeper](https://github.com/navvyiin/DSA/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/navvyiin/DSA/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/navvyiin/DSA/tree/master/0566-reshape-the-matrix) |
+| [1260-shift-2d-grid](https://github.com/navvyiin/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/navvyiin/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
