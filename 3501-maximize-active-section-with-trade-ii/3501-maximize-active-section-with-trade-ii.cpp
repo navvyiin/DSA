@@ -1,96 +1,137 @@
-const int K = 25;
-const int MAXN = 100000;
-int st[K + 1][MAXN];
-
-template <typename T>
-void build(const T& array) {
-    copy(array.begin(), array.end(), st[0]);
-
-    for (int i = 1; i <= K; i++) {
-        for (int j = 0; j + (1 << i) <= (int)array.size(); j++) {
-            st[i][j] = max(st[i - 1][j],
-                           st[i - 1][j + (1 << (i - 1))]);
-        }
-    }
-}
-
-int query(int L, int R) {
-    int i = bit_width((unsigned)(R - L + 1)) - 1;
-    return max(st[i][L], st[i][R - (1 << i) + 1]);
-}
-
 class Solution {
 public:
-    vector<int> maxActiveSectionsAfterTrade(const string& s,
+    vector<int> maxActiveSectionsAfterTrade(string s,
                                             vector<vector<int>>& queries) {
-        int n = s.size(), active = 0;
+        int n = s.length(), m = queries.size();
+        int cnt1 = count(s.begin(), s.end(), '1');
 
-        vector<pair<int, int>> zero;
-        vector<int> index(n);
+        // left[i]: length of the contiguous block ending at i
+        vector<int> left(n);
+        // right[i]: length of the contiguous block starting at i
+        vector<int> right(n);
 
         for (int i = 0; i < n; i++) {
-            if (s[i] == '0') {
-                if (i > 0 && s[i - 1] == '0')
-                    zero.back().second++;
-                else
-                    zero.push_back({i, 1});
-            } else {
-                active++;
+            left[i] = (i > 0 && s[i] == s[i - 1]) ? left[i - 1] + 1 : 1;
+        }
+
+        for (int i = n - 1; i >= 0; i--) {
+            right[i] = (i + 1 < n && s[i] == s[i + 1]) ? right[i + 1] + 1 : 1;
+        }
+
+        vector<int> ans(m, -1);
+
+        int blockSize = sqrt(n);
+
+        vector<tuple<int, int, int, int>> longQueries;
+        longQueries.reserve(m);
+
+        auto bruteForce = [&](int l, int r) {
+            int i = l;
+            int best = 0;
+            int prev = -1;
+
+            while (i <= r) {
+                int start = i;
+                while (i <= r && s[i] == s[start]) i++;
+
+                if (s[start] == '0') {
+                    int len = i - start;
+                    if (prev != -1)
+                        best = max(best, prev + len);
+                    prev = len;
+                }
             }
 
-            index[i] = (int)zero.size() - 1;
+            return best;
+        };
+
+        for (int i = 0; i < m; i++) {
+            int l = queries[i][0];
+            int r = queries[i][1];
+
+            if (r - l + 1 <= blockSize) {
+                ans[i] = cnt1 + bruteForce(l, r);
+            } else {
+                longQueries.emplace_back(l / blockSize, l, r, i);
+            }
         }
 
-        if (zero.empty())
-            return vector<int>(queries.size(), active);
+        sort(longQueries.begin(), longQueries.end(),
+             [](const auto &a, const auto &b) {
+                 if (get<0>(a) != get<0>(b))
+                     return get<0>(a) < get<0>(b);
+                 return get<2>(a) < get<2>(b);
+             });
 
-        vector<int> gains(zero.size() - 1);
+        deque<int> zeroBlocks;
 
-        for (int i = (int)zero.size() - 2; i >= 0; i--)
-            gains[i] = zero[i].second + zero[i + 1].second;
+        int L = 0, R = 0;
+        int bestGain = 0;
 
-        build(gains);
+        for (int i = 0; i < (int)longQueries.size(); i++) {
+            auto [bid, l, r, idx] = longQueries[i];
 
-        vector<int> res(queries.size(), active);
+            if (i == 0 || bid != get<0>(longQueries[i - 1])) {
+                L = (bid + 1) * blockSize - 1;
+                R = (bid + 1) * blockSize;
 
-        for (int i = 0; i < (int)queries.size(); i++) {
-            int L = queries[i][0];
-            int R = queries[i][1];
+                zeroBlocks.clear();
+                bestGain = 0;
+            }
 
-            int start = index[L] + 1;
-            int end = index[R] - (s[R] == '0');
+            while (R <= r) {
+                int len = min(right[R], r - R + 1);
 
-            int cnt_left =
-                index[L] == -1
-                    ? -1
-                    : zero[index[L]].second - (L - zero[index[L]].first);
+                if (s[R] == '0') {
+                    if (!zeroBlocks.empty() && s[R - 1] == '0')
+                        zeroBlocks.back() += len;
+                    else
+                        zeroBlocks.push_back(len);
 
-            int cnt_right =
-                index[R] == -1
-                    ? -1
-                    : R - zero[index[R]].first + 1;
+                    if (zeroBlocks.size() >= 2)
+                        bestGain = max(bestGain,
+                                       zeroBlocks.back() +
+                                           zeroBlocks[zeroBlocks.size() - 2]);
+                }
 
-            if (start < end)
-                res[i] = max(res[i], active + query(start, end - 1));
+                R += len;
+            }
 
-            if (s[L] == '0' && s[R] == '0' &&
-                index[L] + 1 == index[R])
-                res[i] = max(res[i],
-                             active + cnt_left + cnt_right);
+            int savedBest = bestGain;
+            int savedFront = zeroBlocks.empty() ? -1 : zeroBlocks.front();
+            int added = 0;
 
-            if (s[L] == '0' &&
-                index[L] + 1 < index[R] + (s[R] == '1'))
-                res[i] = max(
-                    res[i],
-                    active + cnt_left + zero[index[L] + 1].second);
+            while (L >= l) {
+                int len = min(left[L], L - l + 1);
 
-            if (s[R] == '0' &&
-                index[L] < index[R] - 1)
-                res[i] = max(
-                    res[i],
-                    active + cnt_right + zero[index[R] - 1].second);
+                if (s[L] == '0') {
+                    if (!zeroBlocks.empty() && s[L + 1] == '0')
+                        zeroBlocks.front() += len;
+                    else {
+                        zeroBlocks.push_front(len);
+                        added++;
+                    }
+
+                    if (zeroBlocks.size() >= 2)
+                        bestGain = max(bestGain,
+                                       zeroBlocks[0] + zeroBlocks[1]);
+                }
+
+                L -= len;
+            }
+
+            ans[idx] = cnt1 + bestGain;
+
+            L = (bid + 1) * blockSize - 1;
+            bestGain = savedBest;
+
+            while (added--)
+                zeroBlocks.pop_front();
+
+            if (!zeroBlocks.empty() && savedFront != -1)
+                zeroBlocks.front() = savedFront;
         }
 
-        return res;
+        return ans;
     }
 };
