@@ -95,6 +95,7 @@ LeetCode and GeeksforGeeks
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/navvyiin/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/navvyiin/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/navvyiin/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/navvyiin/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/navvyiin/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/navvyiin/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/navvyiin/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -926,6 +927,7 @@ LeetCode and GeeksforGeeks
 | [2751-robot-collisions](https://github.com/navvyiin/DSA/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/navvyiin/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/navvyiin/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/navvyiin/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/navvyiin/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/navvyiin/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/navvyiin/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
