@@ -85,6 +85,7 @@ LeetCode and GeeksforGeeks
 | [0553-optimal-division](https://github.com/navvyiin/DSA/tree/master/0553-optimal-division) |
 | [0564-find-the-closest-palindrome](https://github.com/navvyiin/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [0788-rotated-digits](https://github.com/navvyiin/DSA/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/navvyiin/DSA/tree/master/0877-stone-game) |
 | [1622-fancy-sequence](https://github.com/navvyiin/DSA/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/navvyiin/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -462,6 +463,7 @@ LeetCode and GeeksforGeeks
 | [0566-reshape-the-matrix](https://github.com/navvyiin/DSA/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/navvyiin/DSA/tree/master/0575-distribute-candies) |
 | [0874-walking-robot-simulation](https://github.com/navvyiin/DSA/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/navvyiin/DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/navvyiin/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/navvyiin/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/navvyiin/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -644,6 +646,7 @@ LeetCode and GeeksforGeeks
 | [0553-optimal-division](https://github.com/navvyiin/DSA/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/navvyiin/DSA/tree/master/0576-out-of-boundary-paths) |
 | [0788-rotated-digits](https://github.com/navvyiin/DSA/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/navvyiin/DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/navvyiin/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/navvyiin/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -1673,6 +1676,7 @@ LeetCode and GeeksforGeeks
 | [0375-guess-number-higher-or-lower-ii](https://github.com/navvyiin/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/navvyiin/DSA/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/navvyiin/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/navvyiin/DSA/tree/master/0877-stone-game) |
 ## Data Stream
 |  |
 | ------- |
