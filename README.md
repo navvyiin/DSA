@@ -96,6 +96,7 @@ LeetCode and GeeksforGeeks
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/navvyiin/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/navvyiin/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/navvyiin/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/navvyiin/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/navvyiin/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/navvyiin/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/navvyiin/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -1526,6 +1527,7 @@ LeetCode and GeeksforGeeks
 | [0204-count-primes](https://github.com/navvyiin/DSA/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/navvyiin/DSA/tree/master/0479-largest-palindrome-product) |
 | [1291-sequential-digits](https://github.com/navvyiin/DSA/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/navvyiin/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/navvyiin/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/navvyiin/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/navvyiin/DSA/tree/master/3546-equal-sum-grid-partition-i) |
