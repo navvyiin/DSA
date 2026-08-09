@@ -86,6 +86,7 @@ LeetCode and GeeksforGeeks
 | [0564-find-the-closest-palindrome](https://github.com/navvyiin/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [0788-rotated-digits](https://github.com/navvyiin/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/navvyiin/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/navvyiin/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/navvyiin/DSA/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/navvyiin/DSA/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -469,6 +470,7 @@ LeetCode and GeeksforGeeks
 | [0575-distribute-candies](https://github.com/navvyiin/DSA/tree/master/0575-distribute-candies) |
 | [0874-walking-robot-simulation](https://github.com/navvyiin/DSA/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/navvyiin/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/navvyiin/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/navvyiin/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/navvyiin/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/navvyiin/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -654,6 +656,7 @@ LeetCode and GeeksforGeeks
 | [0576-out-of-boundary-paths](https://github.com/navvyiin/DSA/tree/master/0576-out-of-boundary-paths) |
 | [0788-rotated-digits](https://github.com/navvyiin/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/navvyiin/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/navvyiin/DSA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/navvyiin/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/navvyiin/DSA/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1575,6 +1578,7 @@ LeetCode and GeeksforGeeks
 | [0525-contiguous-array](https://github.com/navvyiin/DSA/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/navvyiin/DSA/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/navvyiin/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/navvyiin/DSA/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/navvyiin/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/navvyiin/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/navvyiin/DSA/tree/master/2906-construct-product-matrix) |
@@ -1697,6 +1701,7 @@ LeetCode and GeeksforGeeks
 | [0464-can-i-win](https://github.com/navvyiin/DSA/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/navvyiin/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/navvyiin/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/navvyiin/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/navvyiin/DSA/tree/master/1406-stone-game-iii) |
 ## Data Stream
 |  |
@@ -1758,4 +1763,12 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/navvyiin/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/navvyiin/DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/navvyiin/DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
