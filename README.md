@@ -497,6 +497,7 @@ LeetCode and GeeksforGeeks
 | [2812-find-the-safest-path-in-a-grid](https://github.com/navvyiin/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/navvyiin/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/navvyiin/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/navvyiin/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/navvyiin/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/navvyiin/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/navvyiin/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -798,6 +799,7 @@ LeetCode and GeeksforGeeks
 | [1331-rank-transform-of-an-array](https://github.com/navvyiin/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/navvyiin/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/navvyiin/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/navvyiin/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/navvyiin/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/navvyiin/DSA/tree/master/3488-closest-equal-element-queries) |
@@ -955,6 +957,7 @@ LeetCode and GeeksforGeeks
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/navvyiin/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2751-robot-collisions](https://github.com/navvyiin/DSA/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/navvyiin/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/navvyiin/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/navvyiin/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/navvyiin/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/navvyiin/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
