@@ -89,6 +89,7 @@ LeetCode and GeeksforGeeks
 | [1140-stone-game-ii](https://github.com/navvyiin/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/navvyiin/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/navvyiin/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/navvyiin/DSA/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/navvyiin/DSA/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/navvyiin/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -483,6 +484,7 @@ LeetCode and GeeksforGeeks
 | [1406-stone-game-iii](https://github.com/navvyiin/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navvyiin/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1563-stone-game-v](https://github.com/navvyiin/DSA/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/navvyiin/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -670,6 +672,7 @@ LeetCode and GeeksforGeeks
 | [1301-number-of-paths-with-max-score](https://github.com/navvyiin/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/navvyiin/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/navvyiin/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/navvyiin/DSA/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/navvyiin/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/navvyiin/DSA/tree/master/2573-find-the-string-with-lcp) |
@@ -1725,6 +1728,7 @@ LeetCode and GeeksforGeeks
 | [1140-stone-game-ii](https://github.com/navvyiin/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/navvyiin/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/navvyiin/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/navvyiin/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/navvyiin/DSA/tree/master/2029-stone-game-ix) |
 ## Data Stream
 |  |
