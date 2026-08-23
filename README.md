@@ -93,6 +93,7 @@ LeetCode and GeeksforGeeks
 | [1622-fancy-sequence](https://github.com/navvyiin/DSA/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/navvyiin/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1927-sum-game](https://github.com/navvyiin/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navvyiin/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/navvyiin/DSA/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/navvyiin/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -220,6 +221,7 @@ LeetCode and GeeksforGeeks
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/navvyiin/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/navvyiin/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/navvyiin/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1927-sum-game](https://github.com/navvyiin/DSA/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/navvyiin/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/navvyiin/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1382,6 +1384,7 @@ LeetCode and GeeksforGeeks
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/navvyiin/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1927-sum-game](https://github.com/navvyiin/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/navvyiin/DSA/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/navvyiin/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/navvyiin/DSA/tree/master/2573-find-the-string-with-lcp) |
@@ -1743,6 +1746,7 @@ LeetCode and GeeksforGeeks
 | [1406-stone-game-iii](https://github.com/navvyiin/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/navvyiin/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/navvyiin/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/navvyiin/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/navvyiin/DSA/tree/master/2029-stone-game-ix) |
 ## Data Stream
 |  |
