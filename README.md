@@ -1154,6 +1154,7 @@ LeetCode and GeeksforGeeks
 | [0432-all-oone-data-structure](https://github.com/navvyiin/DSA/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/navvyiin/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/navvyiin/DSA/tree/master/0460-lfu-cache) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/navvyiin/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Monotonic Stack
 |  |
 | ------- |
