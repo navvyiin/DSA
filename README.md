@@ -217,6 +217,7 @@ LeetCode and GeeksforGeeks
 | [0567-permutation-in-string](https://github.com/navvyiin/DSA/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/navvyiin/DSA/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/navvyiin/DSA/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/navvyiin/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navvyiin/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/navvyiin/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/navvyiin/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -696,6 +697,7 @@ LeetCode and GeeksforGeeks
 | [0576-out-of-boundary-paths](https://github.com/navvyiin/DSA/tree/master/0576-out-of-boundary-paths) |
 | [0788-rotated-digits](https://github.com/navvyiin/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/navvyiin/DSA/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/navvyiin/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/navvyiin/DSA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/navvyiin/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/navvyiin/DSA/tree/master/1406-stone-game-iii) |
