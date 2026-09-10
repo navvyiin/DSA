@@ -1134,6 +1134,7 @@ LeetCode and GeeksforGeeks
 | [0563-binary-tree-tilt](https://github.com/navvyiin/DSA/tree/master/0563-binary-tree-tilt) |
 | [0565-array-nesting](https://github.com/navvyiin/DSA/tree/master/0565-array-nesting) |
 | [0572-subtree-of-another-tree](https://github.com/navvyiin/DSA/tree/master/0572-subtree-of-another-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/navvyiin/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/navvyiin/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/navvyiin/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/navvyiin/DSA/tree/master/3310-remove-methods-from-project) |
@@ -1238,6 +1239,7 @@ LeetCode and GeeksforGeeks
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/navvyiin/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/navvyiin/DSA/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/navvyiin/DSA/tree/master/0572-subtree-of-another-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/navvyiin/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1291,6 +1293,7 @@ LeetCode and GeeksforGeeks
 | [0543-diameter-of-binary-tree](https://github.com/navvyiin/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/navvyiin/DSA/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/navvyiin/DSA/tree/master/0572-subtree-of-another-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/navvyiin/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
