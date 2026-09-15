@@ -85,6 +85,7 @@ LeetCode and GeeksforGeeks
 | [0553-optimal-division](https://github.com/navvyiin/DSA/tree/master/0553-optimal-division) |
 | [0564-find-the-closest-palindrome](https://github.com/navvyiin/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [0788-rotated-digits](https://github.com/navvyiin/DSA/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/navvyiin/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/navvyiin/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/navvyiin/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/navvyiin/DSA/tree/master/1406-stone-game-iii) |
@@ -1559,6 +1560,7 @@ LeetCode and GeeksforGeeks
 | [0335-self-crossing](https://github.com/navvyiin/DSA/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/navvyiin/DSA/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/navvyiin/DSA/tree/master/0478-generate-random-point-in-a-circle) |
+| [0836-rectangle-overlap](https://github.com/navvyiin/DSA/tree/master/0836-rectangle-overlap) |
 ## Counting
 |  |
 | ------- |
