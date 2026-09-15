@@ -231,6 +231,7 @@ LeetCode and GeeksforGeeks
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/navvyiin/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/navvyiin/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/navvyiin/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/navvyiin/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/navvyiin/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/navvyiin/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -711,6 +712,7 @@ LeetCode and GeeksforGeeks
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1872-stone-game-viii](https://github.com/navvyiin/DSA/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/navvyiin/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/navvyiin/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/navvyiin/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/navvyiin/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/navvyiin/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -956,6 +958,7 @@ LeetCode and GeeksforGeeks
 | [0567-permutation-in-string](https://github.com/navvyiin/DSA/tree/master/0567-permutation-in-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/navvyiin/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/navvyiin/DSA/tree/master/1861-rotating-the-box) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/navvyiin/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/navvyiin/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/navvyiin/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/navvyiin/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1427,6 +1430,7 @@ LeetCode and GeeksforGeeks
 | [2029-stone-game-ix](https://github.com/navvyiin/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/navvyiin/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/navvyiin/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/navvyiin/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/navvyiin/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/navvyiin/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/navvyiin/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
