@@ -493,6 +493,7 @@ LeetCode and GeeksforGeeks
 | [0565-array-nesting](https://github.com/navvyiin/DSA/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/navvyiin/DSA/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/navvyiin/DSA/tree/master/0575-distribute-candies) |
+| [0835-image-overlap](https://github.com/navvyiin/DSA/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/navvyiin/DSA/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/navvyiin/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/navvyiin/DSA/tree/master/1140-stone-game-ii) |
@@ -897,6 +898,7 @@ LeetCode and GeeksforGeeks
 | [0529-minesweeper](https://github.com/navvyiin/DSA/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/navvyiin/DSA/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/navvyiin/DSA/tree/master/0566-reshape-the-matrix) |
+| [0835-image-overlap](https://github.com/navvyiin/DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/navvyiin/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/navvyiin/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
