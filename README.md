@@ -91,6 +91,7 @@ LeetCode and GeeksforGeeks
 | [1406-stone-game-iii](https://github.com/navvyiin/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/navvyiin/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/navvyiin/DSA/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/navvyiin/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/navvyiin/DSA/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navvyiin/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1872-stone-game-viii](https://github.com/navvyiin/DSA/tree/master/1872-stone-game-viii) |
@@ -712,6 +713,7 @@ LeetCode and GeeksforGeeks
 | [1510-stone-game-iv](https://github.com/navvyiin/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/navvyiin/DSA/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/navvyiin/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/navvyiin/DSA/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/navvyiin/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/navvyiin/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1673,6 +1675,7 @@ LeetCode and GeeksforGeeks
 | [0528-random-pick-with-weight](https://github.com/navvyiin/DSA/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/navvyiin/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/navvyiin/DSA/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/navvyiin/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/navvyiin/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/navvyiin/DSA/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/navvyiin/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1846,6 +1849,7 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/navvyiin/DSA/tree/master/0458-poor-pigs) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/navvyiin/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/navvyiin/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/navvyiin/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/navvyiin/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
