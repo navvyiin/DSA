@@ -505,6 +505,7 @@ LeetCode and GeeksforGeeks
 | [1386-cinema-seat-allocation](https://github.com/navvyiin/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/navvyiin/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navvyiin/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/navvyiin/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/navvyiin/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1563-stone-game-v](https://github.com/navvyiin/DSA/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navvyiin/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -614,6 +615,7 @@ LeetCode and GeeksforGeeks
 | [0528-random-pick-with-weight](https://github.com/navvyiin/DSA/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/navvyiin/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/navvyiin/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/navvyiin/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/navvyiin/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/navvyiin/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/navvyiin/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -710,6 +712,7 @@ LeetCode and GeeksforGeeks
 | [1140-stone-game-ii](https://github.com/navvyiin/DSA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/navvyiin/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/navvyiin/DSA/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/navvyiin/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/navvyiin/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/navvyiin/DSA/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/navvyiin/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -852,6 +855,7 @@ LeetCode and GeeksforGeeks
 | [0874-walking-robot-simulation](https://github.com/navvyiin/DSA/tree/master/0874-walking-robot-simulation) |
 | [1331-rank-transform-of-an-array](https://github.com/navvyiin/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/navvyiin/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/navvyiin/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/navvyiin/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/navvyiin/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1051,6 +1055,7 @@ LeetCode and GeeksforGeeks
 | [0438-find-all-anagrams-in-a-string](https://github.com/navvyiin/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/navvyiin/DSA/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/navvyiin/DSA/tree/master/0567-permutation-in-string) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/navvyiin/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/navvyiin/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/navvyiin/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/navvyiin/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
