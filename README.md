@@ -127,6 +127,7 @@ LeetCode and GeeksforGeeks
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/navvyiin/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/navvyiin/DSA/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/navvyiin/DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/navvyiin/DSA/tree/master/0068-text-justification) |
@@ -764,6 +765,7 @@ LeetCode and GeeksforGeeks
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/navvyiin/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/navvyiin/DSA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/navvyiin/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/navvyiin/DSA/tree/master/0085-maximal-rectangle) |
@@ -1933,6 +1935,7 @@ LeetCode and GeeksforGeeks
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/navvyiin/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/navvyiin/DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/navvyiin/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/navvyiin/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
