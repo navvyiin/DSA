@@ -127,6 +127,7 @@ LeetCode and GeeksforGeeks
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/navvyiin/DSA/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/navvyiin/DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/navvyiin/DSA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/navvyiin/DSA/tree/master/0071-simplify-path) |
@@ -647,6 +648,7 @@ LeetCode and GeeksforGeeks
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/navvyiin/DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/navvyiin/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/navvyiin/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/navvyiin/DSA/tree/master/0085-maximal-rectangle) |
@@ -1087,6 +1089,7 @@ LeetCode and GeeksforGeeks
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/navvyiin/DSA/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/navvyiin/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/navvyiin/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/navvyiin/DSA/tree/master/0079-word-search) |
@@ -1930,6 +1933,7 @@ LeetCode and GeeksforGeeks
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/navvyiin/DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/navvyiin/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/navvyiin/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/navvyiin/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
