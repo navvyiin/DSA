@@ -225,6 +225,7 @@ LeetCode and GeeksforGeeks
 | [0564-find-the-closest-palindrome](https://github.com/navvyiin/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/navvyiin/DSA/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/navvyiin/DSA/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/navvyiin/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/navvyiin/DSA/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/navvyiin/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navvyiin/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -724,6 +725,7 @@ LeetCode and GeeksforGeeks
 | [0552-student-attendance-record-ii](https://github.com/navvyiin/DSA/tree/master/0552-student-attendance-record-ii) |
 | [0553-optimal-division](https://github.com/navvyiin/DSA/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/navvyiin/DSA/tree/master/0576-out-of-boundary-paths) |
+| [0678-valid-parenthesis-string](https://github.com/navvyiin/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/navvyiin/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/navvyiin/DSA/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/navvyiin/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -797,6 +799,7 @@ LeetCode and GeeksforGeeks
 | [0488-zuma-game](https://github.com/navvyiin/DSA/tree/master/0488-zuma-game) |
 | [0496-next-greater-element-i](https://github.com/navvyiin/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/navvyiin/DSA/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/navvyiin/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navvyiin/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/navvyiin/DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/navvyiin/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1465,6 +1468,7 @@ LeetCode and GeeksforGeeks
 | [0502-ipo](https://github.com/navvyiin/DSA/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/navvyiin/DSA/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/navvyiin/DSA/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/navvyiin/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navvyiin/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/navvyiin/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/navvyiin/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -1941,6 +1945,7 @@ LeetCode and GeeksforGeeks
 | [0020-valid-parentheses](https://github.com/navvyiin/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/navvyiin/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/navvyiin/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/navvyiin/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/navvyiin/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/navvyiin/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/navvyiin/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
