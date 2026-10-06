@@ -228,6 +228,7 @@ LeetCode and GeeksforGeeks
 | [0678-valid-parenthesis-string](https://github.com/navvyiin/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/navvyiin/DSA/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/navvyiin/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/navvyiin/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/navvyiin/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navvyiin/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/navvyiin/DSA/tree/master/1096-brace-expansion-ii) |
@@ -802,6 +803,7 @@ LeetCode and GeeksforGeeks
 | [0503-next-greater-element-ii](https://github.com/navvyiin/DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/navvyiin/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/navvyiin/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/navvyiin/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navvyiin/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/navvyiin/DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/navvyiin/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1471,6 +1473,7 @@ LeetCode and GeeksforGeeks
 | [0517-super-washing-machines](https://github.com/navvyiin/DSA/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/navvyiin/DSA/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/navvyiin/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/navvyiin/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navvyiin/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/navvyiin/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/navvyiin/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -1949,6 +1952,7 @@ LeetCode and GeeksforGeeks
 | [0032-longest-valid-parentheses](https://github.com/navvyiin/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/navvyiin/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/navvyiin/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/navvyiin/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/navvyiin/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/navvyiin/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/navvyiin/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
