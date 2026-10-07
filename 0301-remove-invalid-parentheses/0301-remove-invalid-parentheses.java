@@ -1,52 +1,65 @@
 import java.util.*;
-
 class Solution {
     public List<String> removeInvalidParentheses(String s) {
         List<String> result = new ArrayList<>();
-        if (s == null) return result;
-
-        Set<String> visited = new HashSet<>();
-        Queue<String> queue = new LinkedList<>();
-
-        queue.offer(s);
-        visited.add(s);
-        boolean found = false;
-
-        while (!queue.isEmpty()) {
-            String curr = queue.poll();
-
-            if (isValid(curr)) {
-                result.add(curr);
-                found = true;
-            }
-
-            // Once valid strings at this level are found,
-            // do not generate deeper states
-            if (found) continue;
-
-            for (int i = 0; i < curr.length(); i++) {
-                char c = curr.charAt(i);
-                if (c != '(' && c != ')') continue;
-
-                String next = curr.substring(0, i) + curr.substring(i + 1);
-                if (!visited.contains(next)) {
-                    visited.add(next);
-                    queue.offer(next);
+        int left = 0, right = 0;
+        for (char c : s.toCharArray()) {
+            if (c == '(') {
+                left++;
+            } else if (c == ')') {
+                if (left > 0) {
+                    left--;
+                } else {
+                    right++;
                 }
             }
         }
-
+        dfs(s, 0, left, right, result);
         return result;
     }
-
+    private void dfs(String s, int start, int leftRemove,
+                      int rightRemove, List<String> result) {
+        if (leftRemove == 0 && rightRemove == 0) {
+            if (isValid(s)) {
+                result.add(s);
+            }
+            return;
+        }
+        for (int i = start; i < s.length(); i++) {
+            if (i > start && s.charAt(i) == s.charAt(i - 1)) {
+                continue;
+            }
+            char c = s.charAt(i);
+            if (leftRemove > 0 && c == '(') {
+                dfs(
+                    s.substring(0, i) + s.substring(i + 1),
+                    i,
+                    leftRemove - 1,
+                    rightRemove,
+                    result
+                );
+            }
+            if (rightRemove > 0 && c == ')') {
+                dfs(
+                    s.substring(0, i) + s.substring(i + 1),
+                    i,
+                    leftRemove,
+                    rightRemove - 1,
+                    result
+                );
+            }
+        }
+    }
     private boolean isValid(String s) {
         int balance = 0;
         for (char c : s.toCharArray()) {
             if (c == '(') {
                 balance++;
             } else if (c == ')') {
-                if (balance == 0) return false;
                 balance--;
+                if (balance < 0) {
+                    return false;
+                }
             }
         }
         return balance == 0;
