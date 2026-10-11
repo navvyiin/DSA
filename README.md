@@ -547,6 +547,7 @@ LeetCode and GeeksforGeeks
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/navvyiin/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/navvyiin/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/navvyiin/DSA/tree/master/2751-robot-collisions) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/navvyiin/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/navvyiin/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/navvyiin/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/navvyiin/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1688,6 +1689,7 @@ LeetCode and GeeksforGeeks
 | [0204-count-primes](https://github.com/navvyiin/DSA/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/navvyiin/DSA/tree/master/0479-largest-palindrome-product) |
 | [1291-sequential-digits](https://github.com/navvyiin/DSA/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/navvyiin/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/navvyiin/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/navvyiin/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/navvyiin/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
