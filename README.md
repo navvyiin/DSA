@@ -274,6 +274,7 @@ LeetCode and GeeksforGeeks
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/navvyiin/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/navvyiin/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/navvyiin/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/navvyiin/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/navvyiin/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
@@ -320,6 +321,7 @@ LeetCode and GeeksforGeeks
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/navvyiin/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/navvyiin/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/navvyiin/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/navvyiin/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/navvyiin/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
@@ -613,6 +615,7 @@ LeetCode and GeeksforGeeks
 | [3731-find-missing-elements](https://github.com/navvyiin/DSA/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/navvyiin/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/navvyiin/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/navvyiin/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/navvyiin/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/navvyiin/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/navvyiin/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -1244,6 +1247,7 @@ LeetCode and GeeksforGeeks
 | [2685-count-the-number-of-complete-components](https://github.com/navvyiin/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/navvyiin/DSA/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/navvyiin/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/navvyiin/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -1347,6 +1351,7 @@ LeetCode and GeeksforGeeks
 | [0572-subtree-of-another-tree](https://github.com/navvyiin/DSA/tree/master/0572-subtree-of-another-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/navvyiin/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/navvyiin/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/navvyiin/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1501,6 +1506,7 @@ LeetCode and GeeksforGeeks
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/navvyiin/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/navvyiin/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/navvyiin/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/navvyiin/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -1852,6 +1858,7 @@ LeetCode and GeeksforGeeks
 | [0493-reverse-pairs](https://github.com/navvyiin/DSA/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/navvyiin/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/navvyiin/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/navvyiin/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1867,6 +1874,7 @@ LeetCode and GeeksforGeeks
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/navvyiin/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/navvyiin/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/navvyiin/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/navvyiin/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sweep Line
 |  |
 | ------- |
