@@ -564,6 +564,7 @@ LeetCode and GeeksforGeeks
 | [2333-minimum-sum-of-squared-difference](https://github.com/navvyiin/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/navvyiin/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/navvyiin/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [2747-count-zero-request-servers](https://github.com/navvyiin/DSA/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/navvyiin/DSA/tree/master/2751-robot-collisions) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/navvyiin/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/navvyiin/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -938,6 +939,7 @@ LeetCode and GeeksforGeeks
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/navvyiin/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/navvyiin/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1980-find-unique-binary-string](https://github.com/navvyiin/DSA/tree/master/1980-find-unique-binary-string) |
+| [2747-count-zero-request-servers](https://github.com/navvyiin/DSA/tree/master/2747-count-zero-request-servers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/navvyiin/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/navvyiin/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/navvyiin/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1122,6 +1124,7 @@ LeetCode and GeeksforGeeks
 | [2089-find-target-indices-after-sorting-array](https://github.com/navvyiin/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/navvyiin/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/navvyiin/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/navvyiin/DSA/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/navvyiin/DSA/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/navvyiin/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/navvyiin/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1157,6 +1160,7 @@ LeetCode and GeeksforGeeks
 | [0567-permutation-in-string](https://github.com/navvyiin/DSA/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/navvyiin/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/navvyiin/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2747-count-zero-request-servers](https://github.com/navvyiin/DSA/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/navvyiin/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/navvyiin/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/navvyiin/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
