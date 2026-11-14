@@ -590,6 +590,7 @@ LeetCode and GeeksforGeeks
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/navvyiin/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/navvyiin/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/navvyiin/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/navvyiin/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/navvyiin/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/navvyiin/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/navvyiin/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -1175,6 +1176,7 @@ LeetCode and GeeksforGeeks
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/navvyiin/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/navvyiin/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/navvyiin/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/navvyiin/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/navvyiin/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/navvyiin/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Backtracking
@@ -1841,6 +1843,7 @@ LeetCode and GeeksforGeeks
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/navvyiin/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/navvyiin/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3312-sorted-gcd-pair-queries](https://github.com/navvyiin/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/navvyiin/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/navvyiin/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/navvyiin/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/navvyiin/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
