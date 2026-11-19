@@ -574,6 +574,7 @@ LeetCode and GeeksforGeeks
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/navvyiin/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/navvyiin/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/navvyiin/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/navvyiin/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2573-find-the-string-with-lcp](https://github.com/navvyiin/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2747-count-zero-request-servers](https://github.com/navvyiin/DSA/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/navvyiin/DSA/tree/master/2751-robot-collisions) |
@@ -1145,6 +1146,7 @@ LeetCode and GeeksforGeeks
 | [2089-find-target-indices-after-sorting-array](https://github.com/navvyiin/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/navvyiin/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/navvyiin/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/navvyiin/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/navvyiin/DSA/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/navvyiin/DSA/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/navvyiin/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -1591,6 +1593,7 @@ LeetCode and GeeksforGeeks
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/navvyiin/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/navvyiin/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/navvyiin/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/navvyiin/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2573-find-the-string-with-lcp](https://github.com/navvyiin/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/navvyiin/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/navvyiin/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
