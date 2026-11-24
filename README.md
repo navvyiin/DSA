@@ -88,6 +88,7 @@ LeetCode and GeeksforGeeks
 | [0836-rectangle-overlap](https://github.com/navvyiin/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/navvyiin/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/navvyiin/DSA/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/navvyiin/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/navvyiin/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/navvyiin/DSA/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/navvyiin/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -545,6 +546,7 @@ LeetCode and GeeksforGeeks
 | [1288-remove-covered-intervals](https://github.com/navvyiin/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/navvyiin/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/navvyiin/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/navvyiin/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/navvyiin/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/navvyiin/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/navvyiin/DSA/tree/master/1406-stone-game-iii) |
@@ -1719,6 +1721,7 @@ LeetCode and GeeksforGeeks
 | [0449-serialize-and-deserialize-bst](https://github.com/navvyiin/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/navvyiin/DSA/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/navvyiin/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+| [1352-product-of-the-last-k-numbers](https://github.com/navvyiin/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/navvyiin/DSA/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/navvyiin/DSA/tree/master/2069-walking-robot-simulation-ii) |
 ## Doubly-Linked List
@@ -1859,6 +1862,7 @@ LeetCode and GeeksforGeeks
 | [0528-random-pick-with-weight](https://github.com/navvyiin/DSA/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/navvyiin/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/navvyiin/DSA/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/navvyiin/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/navvyiin/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/navvyiin/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/navvyiin/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -2016,6 +2020,7 @@ LeetCode and GeeksforGeeks
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/navvyiin/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/navvyiin/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [1352-product-of-the-last-k-numbers](https://github.com/navvyiin/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Eulerian Circuit
 |  |
 | ------- |
