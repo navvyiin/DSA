@@ -655,6 +655,7 @@ LeetCode and GeeksforGeeks
 | [3886-sum-of-sortable-integers](https://github.com/navvyiin/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/navvyiin/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/navvyiin/DSA/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/navvyiin/DSA/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/navvyiin/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -714,6 +715,7 @@ LeetCode and GeeksforGeeks
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/navvyiin/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/navvyiin/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/navvyiin/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3934-smallest-unique-subarray](https://github.com/navvyiin/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -994,6 +996,7 @@ LeetCode and GeeksforGeeks
 | [3731-find-missing-elements](https://github.com/navvyiin/DSA/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/navvyiin/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/navvyiin/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3934-smallest-unique-subarray](https://github.com/navvyiin/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -1800,6 +1803,7 @@ LeetCode and GeeksforGeeks
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/navvyiin/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/navvyiin/DSA/tree/master/0214-shortest-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/navvyiin/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
@@ -1807,6 +1811,7 @@ LeetCode and GeeksforGeeks
 | [0214-shortest-palindrome](https://github.com/navvyiin/DSA/tree/master/0214-shortest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/navvyiin/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/navvyiin/DSA/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/navvyiin/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Enumeration
 |  |
 | ------- |
@@ -2121,4 +2126,8 @@ LeetCode and GeeksforGeeks
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/navvyiin/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/navvyiin/DSA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
